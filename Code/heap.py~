@@ -1,0 +1,9 @@
+
+
+h = []
+
+heappush(h,(342,1200131))
+heappush(h,(32,1200101))
+heappush(h,(2,1200111))
+
+nsmallest(1,)

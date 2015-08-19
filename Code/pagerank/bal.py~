@@ -1,0 +1,5 @@
+excl = {}
+exclude = open('top200.csv','r')
+csvex = csv.reader(exclude,delimiter='\t')
+for row in csvex:
+	excl[row[0]] = 1

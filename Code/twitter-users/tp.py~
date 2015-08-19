@@ -1,0 +1,4 @@
+import json
+
+
+us = json.loads(file('19070986.json').read())

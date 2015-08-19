@@ -1,0 +1,65 @@
+import heapq
+import csv
+import operator
+import os
+
+h = []
+
+table = {}
+table1 = {}
+excl = {}
+exclude = open('exclusion.csv','r')
+csvex = csv.reader(exclude,delimiter='\t')
+for row in csvex:
+	excl[row[0]] = 1
+
+exclude1 = open('exclcomp.csv','r')
+csvex1 = csv.reader(exclude1,delimiter='\t')
+for row in csvex1:
+	excl[row[0]] = 1
+
+
+lat = open('Results/top10p10.csv','r')
+csvlat = csv.reader(lat,delimiter='\t')
+
+lat1 = open('Results/top1010p.csv','r')
+csvlat1 = csv.reader(lat1,delimiter='\t')
+
+f = open('Results/top1011p.csv', "wb")
+for rw in csvlat:
+	name = rw[0]
+	print name
+	fname = os.path.join('following', str(name) + '.csv')
+	sample = open(fname,'r')
+	csv1 = csv.reader(sample,delimiter='\t')
+	for row in csv1:
+		print row
+		if (excl.has_key(row[1]) or table.has_key(row[1]) or table1.has_key(row[1])):
+			x = 1	#doing timepass		
+		else:
+			table[row[1]] = 1	
+			table1[row[1]] = 1
+			heapq.heappush(h,(-(int(row[3])),row[1]))
+	sample.close()
+
+for rows in csvlat1:
+	if (excl.has_key(rows[0]) or table.has_key(rows[0]) or table1.has_key(rows[0])):
+		x = 1	#doing timepass		
+	else:
+		table[rows[0]] = 1	
+		table1[rows[0]] = 1
+		#print rows[0]
+		heapq.heappush(h,(-(int(rows[1])),rows[0]))
+	
+
+for x in range(0,5000):
+	p = heapq.heappop(h)
+	params = (p[1],-p[0])
+	f.write('%s\t%s\n' % params)
+
+
+f.close()
+exclude.close()
+lat.close()
+lat1.close()
+

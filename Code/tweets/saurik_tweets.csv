@@ -1,0 +1,1104 @@
+609021432371249153,2015-06-11 15:36:39,"Today, 12pm/noon US Pacific Time (which is 19:00 GMT), I will be giving a talk at #AltConf on the DMCA. Live Stream: https://t.co/rlkzXrDPsF"
+604517292467052544,2015-05-30 05:18:48,"Best part of the Google I/O trip: BBQ from Ray Walters (@ShrinkingRay) at @androidbbq's ""Meat &amp; Greet"". #io15 #bamgsf http://t.co/KVyIVjXoQk"
+603995881461796864,2015-05-28 18:46:54,"Despite having an official badge for Google I/O, I decided to stop by IDEAA/@androidbbq's Extended I/O. #io15 #bamgsf http://t.co/qYPREpk2ro"
+601469784635486208,2015-05-21 19:29:06,".@kwiens and I put ~30 ""all-purpose mobile computing devices"" (and watches, cameras, set-top boxes...) into evidence. http://t.co/HL86zaDwv9"
+601427012025077761,2015-05-21 16:39:08,"Now: @GM and @autoalliance argue against exemptions for unlocking ""mobile connectivity devices"". @kwiens @CathyGellis http://t.co/W2hSk0765g"
+601202175335759873,2015-05-21 01:45:43,"I got on the ""video game consoles"" DMCA exemption panel with @CathyGellis from @DigitalAgeD and @kwiens from @iFixit! http://t.co/Qx8RaXwCPN"
+601112354034556928,2015-05-20 19:48:47,"At the Triennial DMCA Exemption Rulemaking, watching the ESA/MPAA/RIAA lawyer respond to the comment by @Exploiteers! http://t.co/9dE4A2kzsz"
+545481102811357184,2014-12-18 07:30:04,@coolstarorg @isklikas I've responded to your claims that I stole code from your project in an article on my website. http://t.co/y21ur97wvB
+544144437786312705,2014-12-14 14:58:38,"Veency 0.9.3500 and Cydget 0.9.4013 have been released, now supporting iOS 8.0 and 8.1 (as well as the larger iPhone 6 and 6+ screen sizes)."
+540443035306168320,2014-12-04 09:50:35,WinterBoard 0.9.3918 fixes all issues users reported with 0.9.3917 (including the bug where WinterBoard could crash iCloud backup attempts).
+539693252405104640,2014-12-02 08:11:13,"Assuming it goes well and transfer delays are reasonable, Alipay payments will become a standard feature on all products in a couple months."
+539693241252478976,2014-12-02 08:11:10,"Today, we take another step: all Cydia vendors can opt in to sales via Alipay. The setting can be found in the Cydia backend product portal."
+539693216917098496,2014-12-02 08:11:04,"Last month, Cydia launched support for Alipay (like PayPal, but in China) with some vendors; we've seen thousands of successful payments! :D"
+537759316602667008,2014-11-27 00:06:26,"WinterBoard 0.9.3917 fixes all issues users reported with 0.9.3916 (except one, which might not be due to WinterBoard; still investigating)."
+537603553557098496,2014-11-26 13:47:30,"WinterBoard 0.9.3916 is now available, with updates for iOS 7 and 8 (for example: new support for theming the contents of Assets.car files)."
+530454526302908417,2014-11-06 20:19:49,Cydia vendors can now mark their products as iOS 8 compatible. (The jailbreak platform itself is now stable enough to make this reasonable.)
+530454505994076161,2014-11-06 20:19:44,"If you are waiting to jailbreak your iOS 8.0-8.1 device until things are ""stable enough"": we now seem to be ready! ;P http://t.co/XRUU74p7i8"
+518513548797169664,2014-10-04 21:30:38,"In a very nontechnical talk at Dragon Con, I drew analogies from jailbreaking to both fan fiction and Stargate SG-1. https://t.co/E61YunIV3v"
+506349422411022339,2014-09-01 07:54:44,"This year, I was (again) on the Hacking 201 panel at #DragonCon. The panel started at 10pm and just ended at 4am... this panel is insane ;P."
+505859766682652673,2014-08-30 23:29:01,"My talk at #360iDev, ""Missing Obvious Signals"", turned into an exploration of motivation and ethics in jailbreaking. https://t.co/RxYrnORTas"
+501922374523314176,2014-08-20 02:43:14,Yesterday's OS X 10.10 and Xcode 6 (iOS 8 Simulator) pushes fixed the JavaScript bug I filed! :D New Cycript 0.9.502: http://t.co/KzRHF7m0oF
+498186320854798336,2014-08-09 19:17:29,"Sat front row for Hack All The Things, the morning's #DEFCON talk by @GTVHacker (with special guest, @dualcoremusic). http://t.co/PJNEqC83oI"
+497297069397516288,2014-08-07 08:23:55,"(The previous picture doesn't quite demonstrate just how intense this programming backdrop is: yes, I have earplugs.) http://t.co/6VUTEAFxve"
+497293650582568960,2014-08-07 08:10:20,Substrate for iOS 0.9.5012 (developed at the XS in Vegas) fixes an incompatibility with PhotoOrganizer 7 (and more?). http://t.co/IRuiRt5dyX
+497212707909554176,2014-08-07 02:48:41,"(Substrate for iOS 0.9.5011 fixes the issue some people ran into with 0.9.5010, where rebooting their device did not activate Substrate :/.)"
+497196427211059200,2014-08-07 01:44:00,"As presented in our training at Black Hat, Substrate for iOS 0.9.5010 has a new entry-level feature, MSHookInterface. http://t.co/97PoLIAldd"
+488512316993187840,2014-07-14 02:36:27,"Veency 0.9.3402 (iOS VNC server) supports iOS 7.1 and allows Show Cursor. Special ""thanks"" to @iCykey and @mringwal, who made this possible!"
+481289983655813122,2014-06-24 04:17:28,@MuscleNerd Look at it this way: if someone has root access to add rc scripts they can modify anything else (including the untether itself).
+481289402572763137,2014-06-24 04:15:10,"@MuscleNerd Without rc.d you can always just add trivial LaunchDaemons; on iOS 6 you could bsexec from launchd.conf: this isn't a ""hole"" :/."
+481247327580356608,2014-06-24 01:27:58,"@MuscleNerd The evasi0n7 untether also ran /etc/rc.d scripts; this was to replace /etc/launchd.conf, and is not any more powerful/dangerous."
+477386922973618176,2014-06-13 09:48:06,"Cydia Installer 1.1.12 fixes (again) the status bar text color issue (a different one ;P) and the ""WinterBoard/Activator is empty"" issue :(."
+477187288498057217,2014-06-12 20:34:49,"Cydia Installer 1.1.11 fixes a number (almost all, really) of the bugs users reported so far in 1.1.10 (including the statusbar text color)."
+477096561588318208,2014-06-12 14:34:18,"Cydia Installer 1.1.10, just released: new features, reorganized UI, bug fixes, and an iOS 7 styled icon by @Surenix. http://t.co/QGC6iDcE0l"
+474713790022287361,2014-06-06 00:46:01,"Friday (June 6), @brittagus and I will be running a ""lab"" at #AltConf (free! across from Moscone in SF), 9am to 12pm. http://t.co/PYy5nFCx21"
+474711694019547137,2014-06-06 00:37:42,My talk today at #AltConf (on some low-level implementation details of Swift as seen from Cycript) is up on YouTube. https://t.co/eHU7px3tXJ
+474400702567964672,2014-06-05 04:01:56,"I'm sitting in the back lobby of the SF Marriott Marquis (next to Moscone), working with Swift, and will be for hours: feel free to drop by."
+474395695621746689,2014-06-05 03:42:02,"My talk at #AltConf (2pm, Thursday June 5)--which is currently untitled--will be a ""Swift"" 20m introspecting Apple's WWDC app using Cycript."
+474015479464357888,2014-06-04 02:31:11,@zmanfx @IsaiahJTurner What sucks is I'm going to be kicking myself for years: I saw isSyncing but wasn't certain if it changed the time. :(
+474015141063688192,2014-06-04 02:29:51,"@IsaiahJTurner FWIW, I am not 100% certain that my scenario would be possible, and the result was arguably not exactly 20 seconds anyway. :/"
+473918757446774784,2014-06-03 20:06:51,"@jckarter (To clarify, my previous tweet was in reaction to what I took as ""passive aggressive""; if that wasn't your intention I apologize.)"
+473909927182745600,2014-06-03 19:31:46,"@jckarter Isn't the point of filing a radar ""for you"" (one of the developers, to keep track of the bug in your preferred way), not ""for me""?"
+473879420554342401,2014-06-03 17:30:32,"@jckarter Is there more information that you need? I was not even sure it was a ""bug"". What value is there in me (not you) ""filing a radar""?"
+473786087811194883,2014-06-03 11:19:40,ivar_getTypeEncoding on fields of Swift classes always gives NULL :( though the value returned by ivar_getOffset is at least still accurate.
+473785847926374400,2014-06-03 11:18:43,"Apple made it sound like the WWDC app was entirely written in Swift, but it seems only 4 classes were (app delegate/coordinator and map UI)?"
+427862047338926081,2014-01-27 17:53:56,"Veency 0.9.3400 (iOS VNC server) supports iOS 7 / ARM64. A special ""thank you"" to @iCykey and @iolate_e, who both helped make this possible."
+425785256730324992,2014-01-22 00:21:30,"(Cycript now has tons of new features, almost all of which are now documented in the new manual, on the new website. http://t.co/EKXhLWq6RL)"
+425785206298005504,2014-01-22 00:21:18,Cycript 0.9.500 is out for iOS 7 and ARM64. Cycript is an Objective-C++/JavaScript hybrid debugging/exploration REPL. http://t.co/EKXhLWq6RL
+425785136622206977,2014-01-22 00:21:01,"Cydget 0.9.4008 is out, with support for iOS 7 and ARM64. (Cydget lets you make easy iPhone/iPad LockScreen plugins using HTML and Cycript.)"
+422398893079277568,2014-01-12 16:05:18,WinterBoard 0.9.3912 (just released) runs on iOS 7 and seems compatible with ARM64; theme artists are encouraged to report any crashes/bugs.
+417938916356784128,2013-12-31 08:42:57,"Substrate 0.9.5000 has been released, with support for iOS 7 and ARM64. (For extensions to work on ARM64, they must be recompiled to ARM64.)"
+415490704219983874,2013-12-24 14:34:37,In the last hour I've gotten &gt;450 mentions. Twitter only lets you scroll through 800 posts. &lt;- This is why I can't use Twitter very much ;P.
+415483582828670978,2013-12-24 14:06:20,"I want to make certain a big thank you goes out to @rpetrich, @Surenix, and @kylematthews, without whose help Cydia 1.1.9 would have sucked."
+414868034210111488,2013-12-22 21:20:21,"I guess I don't understand ""we really wanted TaiG's deal, so when we heard a rumor of an open jailbreak we were rushed: shame on saurik"". :/"
+414867998051016704,2013-12-22 21:20:13,"Regardless, I gave the iOS 7 Substrate build to evad3rs on September 30th, and all I needed to test was a new copy of redsn0w (not evasi0n)."
+414867965855539200,2013-12-22 21:20:05,"I guess now the argument is that if people come to me with a potential jailbreak, in order to not ""backstab"", I am not allowed to help them?"
+414867937208451073,2013-12-22 21:19:58,"Also, I am not part of @evad3rs: they made that very clear to me. They never told me anything about their exploit. Should I not help others?"
+414867903029067776,2013-12-22 21:19:50,"...in particular, I do not see how it is ""backstabbing"" @evad3rs (as some claim): it was unlikely to work, and was mostly just ""having fun""."
+414867873845088256,2013-12-22 21:19:43,"So, yes: someone approached me with a potential jailbreak; the goal being to get a non-piracy-laden jailbreak out; this does not seem bad..."
+414841231391223809,2013-12-22 19:33:51,"@i0n1c So, I'm pretty certain that everyone (evad3rs, geohot, etc.) has always been open that a jailbreak commands about $100k in donations."
+414840264692203520,2013-12-22 19:30:01,@i0n1c Users always donate to whomever has the jailbreak first: that website doesn't change who the donations go to; they simply take a cut.
+414839406323695616,2013-12-22 19:26:36,"@i0n1c and failed; long enough ago that if your conspiracy theories actually made any sense I'd have been behind that website, right? *sigh*"
+414836187438673920,2013-12-22 19:13:49,"I want that made clear as everyone is reporting how ""surprised"" I am: I was surprised by the sudden release with no test time, but not TaiG."
+414836169218592769,2013-12-22 19:13:44,"In the end, I couldn't find an arrangement that evad3rs would take over TaiG (closest I came had me potentially losing money I didn't have)."
+414836148737802240,2013-12-22 19:13:39,"BTW, I knew about TaiG 2 months ago: I warned evad3rs it was sketchy, told them there would be piracy, and tried to find them a better deal."
+414821531361890304,2013-12-22 18:15:34,".@pod2g I don't think you understand: open TaiG, scroll to any package that has English in its title, and search for it in the App Store. :("
+414817484831604736,2013-12-22 17:59:29,".@pod2g It does not matter if the app is free. Regardless, here is a $1 paid app: TaiG: http://t.co/vOqnhLz7zT Apple: http://t.co/nacqmHJsQ0"
+414810297937838080,2013-12-22 17:30:56,"*sigh*: evasi0n, in China, installs an ""app store"" for cracked apps.
+TaiG/cracked: http://t.co/shsanSqxSG
+Apple/real: http://t.co/e5nvc5477F"
+414746896809201664,2013-12-22 13:19:00,"For those who only care about WinterBoard: as I expected, I got core functions working on iOS 7 ;P. (Not pushed yet!) http://t.co/D84CI5OWLT"
+414744466503647232,2013-12-22 13:09:21,"(Also, it's 5 AM here; I'm quite tired and had been intending to go to sleep, so I don't have the brain power to react to this all quickly.)"
+414743903854546944,2013-12-22 13:07:06,"(In particular, I will point out that the build of ""Cydia"" included is not official, and couldn't really include the fixes I'd been making.)"
+414743881977061377,2013-12-22 13:07:01,"I thereby have no clue what will or will not work, or even what evasi0n7 includes; I hope that people bear with me as I figure this all out."
+414743800087461888,2013-12-22 13:06:42,As there was also never a tethered jailbreak for iOS 7 that had fully working kernel patches I haven't been able to test much at all myself.
+414743774867116032,2013-12-22 13:06:36,This means they are going to have to push a new version of their untether to fix this oversight before I can push newer builds of Substrate.
+414743736057208833,2013-12-22 13:06:26,"In fact, @evad3rs didn't even try my testing build of Substrate I gave core developers, so they didn't notice a fundamental incompatibility."
+414743665362231296,2013-12-22 13:06:10,"So, I got no lead time on evasi0n7, nor was I asked for an official iOS 7 Cydia; I was not given builds, nor was I asked for things to test."
+396463472545763328,2013-11-02 02:27:12,"Last night, the source code of Android 4.4 was released to AOSP's git, disclosing Yet Another Android Master Key Bug. http://t.co/mkV1jXIb8v"
+386241980537118720,2013-10-04 21:30:38,Current iOS 7 tethered jailbreak patches don't yet support Substrate; developers can Cycript the Simulator if needed. http://t.co/NpSn3z2QBd
+382400150334734336,2013-09-24 07:04:35,For anyone wanting more than 140 characters about the Android iMessage app I posted to Android Security Discussions. https://t.co/ihTRUY97is
+382387551144652800,2013-09-24 06:14:31,A 3rd-party iMessage app was just released on Android; I believe all data sent from/to Apple is resent to/from China for processing: beware.
+377571794514767873,2013-09-10 23:18:25,iPhone 5S has a 64-bit ARMv8 CPU; we've got a lot of reading to do ;P. http://t.co/p4wRXXykak http://t.co/eD2rPHaIv1 https://t.co/0i7AYfRfgm
+376815524249739264,2013-09-08 21:13:16,"It's extra funny when those same people then proudly state they won't follow me on Twitter, as they don't like my replying to them by DM. ;P"
+376814595735691264,2013-09-08 21:09:35,People who claim I am difficult to contact clearly have never tried PM'ing on IRC; Twitter is /not/ a good way to have a complex discussion.
+374269796860563456,2013-09-01 20:37:27,"For anyone attending #DragonCon 2013, I will be part of ""DIY Science: Hacking 201"" on the Science Track. Sunday (today) 10pm-2am, Hilton 202"
+360743933153771520,2013-07-26 12:50:30,"A ""sequel"" to my previous article on Android signature verification bugs: an even stronger exploit than ""Master Key"". http://t.co/jq3Sl0o73y"
+360515866217029632,2013-07-25 21:44:15,"Yesterday, for Android 4.3, I pushed a new version of Substrate; it is important to upgrade to Substrate 0.9.4010 before OTA to Android 4.3."
+359907508841742336,2013-07-24 05:26:51,"Thanks to @TeamAndIRC and @giantpune, Cydia Impactor can now get root even on recent Android 4.2 devices (one click). http://t.co/872Ahwfofw"
+358920397619609600,2013-07-21 12:04:25,"To users of Android devices looking for a concrete exploit of the new ""Master Key"" vulnerability, I present Impactor. http://t.co/zEHkwVaK7j"
+335154049299148801,2013-05-16 22:05:26,"(If anyone is watching the ""Hacking Glass"" talk at #GoogleIO2013 #io13, yes: it was I who yelled the correction about fastboot on Mac OS X.)"
+334748341999124481,2013-05-15 19:13:18,"We are now well into hour four of the aforementioned grueling ""three hour"" #GoogleIO2013 keynote; Larry Page is doing Q&amp;A with the audience."
+334733144483831810,2013-05-15 18:12:55,The 2nd hour of this grueling 3 hour long #GoogleIO2013 keynote devolved to end user focussed product announcements; seems to be continuing.
+334709946656649218,2013-05-15 16:40:44,"#GoogleIO2013 is making an effort to target the developer audience it ignored last year, even showing code on stage. http://t.co/GplU0tlW4k"
+334376174434275329,2013-05-14 18:34:27,(Hadn't realized the chick-and-the-egg issue with Substrate defining a permission and the Play Store asking you to grant it to WinterBoard.)
+334376159871639555,2013-05-14 18:34:23,"(If you installed WinterBoard for Android and it keeps telling you to ""restart Zygote"", uninstall and reinstall WinterBoard, not Substrate.)"
+334357963647098880,2013-05-14 17:22:05,"With Substrate, WinterBoard is also now available on Android, supporting icon packs and Theme Chooser on stock ROMs. https://t.co/RA0LrLWxfg"
+334357924287750144,2013-05-14 17:21:55,"After years of effort, Substrate for Android is finally released, along with full documentation for iOS Substrate ;P. http://t.co/WYrC37Z8UN"
+329711807608528896,2013-05-01 21:39:55,Seems Google is just having issues today: @adamsalym points out all YouTube videos now have 0 dislikes (and new dislikes count as likes ;P).
+329700844192804865,2013-05-01 20:56:21,"Well, that didn't take long... Google's Glass site was missing for quite a while; I posted a message on Twitter about it, and now it's back!"
+329699444054454273,2013-05-01 20:50:47,"Apparently, Google has (probably mistakingly? quite the oversight... ;P) taken down the developer website for Glass. https://t.co/ZnEasrlK0x"
+329341574972575746,2013-04-30 21:08:45,"In my article ""Exploiting a Bug in Google's Glass"" http://t.co/2C59FJRMBO I also discuss the security challenges of this new kind of device."
+329341555674603522,2013-04-30 21:08:40,"""Exploiting a Bug in Google's Glass"" http://t.co/2C59FJRMBO &lt;- This is both a ""how to"" and a detailed explanation of @Bin4ryDigit's exploit."
+327857009754001408,2013-04-26 18:49:37,"Google Glass runs Android 4.0.4, which is subject to the adb restore race condition; com.google.glass.logging fits the needed configuration."
+327856986278477824,2013-04-26 18:49:31,#ifihadglass I would jailbreak it and modify the software (obviously). As Google actually sold me one; I did my part. http://t.co/GGYtCjV42Z
+327856934164262912,2013-04-26 18:49:19,"@Hexxeh Supporting ""fastboot oem unlock"" doesn't lead to easy root access, as you need a compatible kernel, which usually is dumped as root."
+308905062787321856,2013-03-05 11:41:20,"The bug in @googlechrome was analyzed by @phoenixdev, who found some jailbreak-detection logic that assumed you had turned on crash reports."
+308902985793163265,2013-03-05 11:33:05,(In addition to changing that setting--to work around @googlechrome's mistake :(--you may also need to uninstall Chrome hacks you may have.)
+308902940075233281,2013-03-05 11:32:54,"Sigh. @googlechrome added untested jailbreak-specific code on iOS; if you have ""send crash reports"" off, it crashes. https://t.co/HyJnDmqezg"
+308172645613043712,2013-03-03 11:10:58,"After being offline for 45 minutes, @CloudFlare (and evasi0n​.com, and @ModMyi) is back online as of about 10 minutes after my last message."
+308166351497859072,2013-03-03 10:45:58,"evasi0n​.com and @ModMyi (forum and in-Cydia package pages) are both currently offline: @CloudFlare, the service that hosts both, is broken."
+307809921771139072,2013-03-02 11:09:38,"@pod2g The ""23 million[ on] any version"" statistic lost a qualification between me, you, and Twitter: that is ""seen in the last month only""."
+303143411203059712,2013-02-17 14:06:36,Substrate 0.9.4000 was apparently incompatible with the Siri-on-old-hardware hacks people keep maintaining; managed to fix this in 0.9.4001.
+298986921949011968,2013-02-06 02:50:11,"More than four million unique devices used Cydia since the evasi0n jailbreak release. (Note: due to downtime, we may have not counted some.)"
+298986844333416448,2013-02-06 02:49:53,"(Doh! The second spike in the last graph wasn't from Twitter: it was just an artifact caused by a code change, explaining its small impact.)"
+298804258348888064,2013-02-05 14:44:21,@pod2g Every page request is going to involve a lot of hits for images; and then there are stylesheets and JavaScript... hits add up /fast/.
+298802795979608064,2013-02-05 14:38:32,"@pod2g No: HTTP hits per five minutes ;P. Hits is a semi-useless measurement; but, for various reasons it is good for tracking usage spikes."
+298801260860145664,2013-02-05 14:32:26,"I'm sorry about all the graphs (I sound like @SMBCComics ;P), but I spoke too soon! http://t.co/Xn2HJINW The spike seems to be my last post."
+298771049649160192,2013-02-05 12:32:23,"It turns out that traffic actually curved /back upwards/, giving us all a very busy 19-hour day; things do work now! ;P
+http://t.co/DaYA7ari"
+298555336246325248,2013-02-04 22:15:13,"For those curious what my spike looks like, (non-repository) webserver hits peaked at 14k hits/sec. In 5 min intervals: http://t.co/IobMXcu6"
+298532383882371073,2013-02-04 20:44:01,"Also, ""it's up!"" only applies to my repository, not my payment system :(. That is not as simple as ""yay @CDNetworks"", but I'm working on it."
+298532318086303744,2013-02-04 20:43:45,"As some Internet providers (especially for users in lands distant to me) cache DNS entries ""too long"", some users may continue to get fails."
+298524827889848320,2013-02-04 20:13:59,"However, with the help of David, the on-call support agent from @CDNetworks, I was able to rapidly rearchitect my repository setup: it's up!"
+298524812685488128,2013-02-04 20:13:56,"So, the thing that is different about this jailbreak is that @evad3rs provided a specific time; normally, usage follows a wave of discovery."
+298266860711976960,2013-02-04 03:08:55,"Also for developers, the product compatibility page now lets you manage hardware support: new devices are unchecked, so you must look at it."
+298266847172767744,2013-02-04 03:08:52,For developers of paid Cydia products: you can now directly give refunds by typing the transaction identifier into the Cydia Connect portal.
+297975420123500544,2013-02-03 07:50:50,Veency 0.9.3908 is now (finally...) compatible with iOS 6.0 (&amp; 6.1!): @phoenixdev provided the last puzzle piece (fixing the dialog box ;P).
+286875943757307904,2013-01-03 16:45:29,"The real problem is that the entire menu of modern devices--even the venerable ""Windows PC""--are becoming more and more closed over time. :("
+286875896349069313,2013-01-03 16:45:18,"Yes: Android has limited plugin support (widgets, keyboards, etc.) and allows non-Market apps: however, you still need to root it for hacks."
+286875858495475712,2013-01-03 16:45:09,"Some RT'ing #weWantAnOpenIOS seem to believe Androids are open... Google Nexuses (unlockable bootloaders) are open-ish, but many are closed."
+249299546184773632,2012-09-22 00:10:18,My iPhone 5 is being held at will call. Good thing I'm still using a 4S running iOS 5: iOS 6 can't find the UPS center. http://t.co/ktgiPVi0
+223491679502610432,2012-07-12 18:59:03,"Yesterday, users reported Cydia ""locking up""; I tracked it down to a bug in @CloudFlare that broke @ModMyi (now fixed). http://t.co/L16dRniX"
+212239372165201921,2012-06-11 17:46:24,"The most innovative thing in the new 15"" retina MacBook Pro is actually the fan: asymmetric blades spread out the frequency of the whirring."
+186199978035777536,2012-03-31 21:15:08,"As many users just get confused and angry regarding Cydia's April Fools' jokes, I have pushed Cydia 1.1.6 (which removes the obsolete code)."
+186199801564635137,2012-03-31 21:14:26,"For April Fools' 2011, I did a Twitter-inspired ""dickbar"" in Cydia; I apparently never removed the code and it just checks for ""April 1"". :("
+171740800412155904,2012-02-20 23:39:32,The US Copyright Office has finished posting all of our 2012 DMCA exemption comments! I'm #14. Apple didn't comment. ;P http://t.co/4Lom1gHf
+164494029030031361,2012-01-31 23:43:27,Corona 1.0-8: @sbingner noticed that 1.0-6/7 failed on iPhone 4S 5.0 (the only supported 5.0 build; absinthe's Corona had worked): fixed. :(
+164429953604128768,2012-01-31 19:28:50,"Ugh: users with an ""old bootrom"" iPhone 3GS aren't using Corona and should not install it; @MuscleNerd believes this is the only such group."
+164423830843043842,2012-01-31 19:04:30,"Corona 1.0-7: @XusBadia reported that 1.0-6 had a ""Depends"" that made it refuse to install on an original iPad. :( This has been corrected."
+164421355415146496,2012-01-31 18:54:40,"So, most of the feedback I have received from ""all users (however jailbroken) running 5.0.1"" has been ""even me? I did X."": yes, even you. ;P"
+164418323096936448,2012-01-31 18:42:37,Corona 1.0-6: @planetbeing put a lot of work into solving iBooks image loading bugs. All users (however jailbroken) on 5.0.1 should install.
+161564712662872066,2012-01-23 21:43:23,"So, @MuscleNerd's 205k number was just the number of on-Cydia iPhone 4S's; I believe that is now 494k. iPad 2 5.0.1 adds an additional 463k."
+161545736104849410,2012-01-23 20:27:59,#Android @TeamAndIRC just told me the Transformer Prime runs ICS; @alpharevx provided the offsets for mempodroid: I added it to the example.
+161394027617456128,2012-01-23 10:25:09,"Today, an exploit by @zx2c4 hit Hacker News; it isn't useful on iOS, so I threw together an Android implementation. ;P https://t.co/lOeGy4rz"
+158709870202327042,2012-01-16 00:39:16,"As many users don't realize that untethers only affects boot, I just released 1.0-5 of the Corona package, which forces a reboot on upgrade."
+158700758605377536,2012-01-16 00:03:04,Corona (5.0.1 untether) 1.0-4 is now out: users of redsn0w or the older packages should install. This fixes both iBooks and launchd (again).
+152434724864925696,2011-12-29 17:04:05,"If you failed to upgrade to MobileSubstrate 0.9.3994 and got ""Half-Installed Package"": click ""Ignore"", enter Cydia, and upgrade to 0.9.3995."
+152431619532275713,2011-12-29 16:51:44,"Ugh! 0.9.3993 worked, 0.9.3994 worked; but 0.9.3993 can't upgrade to 0.9.3994 (only on iOS 4.3: &lt;=4.2 and 5.0 worked). Fixed in 0.9.3995. :("
+152304229556559873,2011-12-29 08:25:32,"Cyntact 1.4.2: iOS 5! ;P MobileSubstrate 0.9.3994: Support devices jailbroken using JailbreakMe 3.0 ""Saffron"" (stays active during reboots)."
+151851829074989056,2011-12-28 02:27:51,"The launchctl issue also affects you if you used redsn0w to install the 5.0.1 untether. I have built 1.0-3, which can upgrade redsn0w users."
+151831295280947202,2011-12-28 01:06:16,"Corona (5.0.1 untether) apparently breaks `launchctl`; @planetbeing figured out what caused it, and I patched the package: upgrade to 1.0-2."
+125299008443908096,2011-10-15 19:56:26,"I've determined why Cydia was offline part of yesterday and today (my PgSQL WAL archiver script locked up), and am fixing it for the future."
+124202526152200192,2011-10-12 19:19:24,"To anyone getting ""An internal error occurred."" (3200) while installing iOS 5.0, Apple's servers are swamped, and failing half the requests."
+124172150008578048,2011-10-12 17:18:42,"It is incredibly frustrating how many users and themers alike clamor over WinterBoard, while not caring enough to be on IRC to help test. :("
+122595280309862400,2011-10-08 08:52:47,"...and tonight, jailbreakme.com was transferred to me (convenient, as I host the site ;P); so, going forward, we no longer need to worry! :D"
+122595250668703744,2011-10-08 08:52:40,"Yesterday, we learned that jailbreakme.com was sold in July; today, I talked with the new owner: he is actually very likable and awesome. ;P"
+95189744241225728,2011-07-24 17:52:58,"Yesterday, Google+ suspended a number of users for not using their ""real names""; one of those users was @MuscleNerd. :( http://t.co/pHSxvPZ"
+90520219004583936,2011-07-11 20:37:56,"To be clear: do /not/ go back to jailbreakme.com and ""redo"" the jailbreak; instead, just open Cydia, and accept the new ""Essential Upgrade""."
+90515958678044672,2011-07-11 20:21:00,"So, @comex made some fixes to the kernel patches for JailbreakMe, and we are pushing them as an ""Essential Upgrade""... I hope this works! :("
+88368173992263681,2011-07-05 22:06:29,"(In fact, @comex is in /such/ a hurry that his new jailbreak will have a poorly tested kernel driver in it. :( I'd wait a week to use it...)"
+78330393257975808,2011-06-08 05:19:55,"(and to all saying ""model/serial number"", I (and they, apparently ;P) felt that would be cheating: the given and accepted answer is visual.)"
+78323885250068480,2011-06-08 04:54:04,"(To people responding with answers to my #WWDC Stump the Experts question: in my official question I had specified ""without turning it on"".)"
+78322682927656960,2011-06-08 04:49:17,"At #WWDC Stump the Experts, they finally got my question (how to tell apart 2nd & 3rd gen iPod Touch). :( (At least I had won something. ;P)"
+78320043930292225,2011-06-08 04:38:48,"Now I won a bottle of ""Penis Reduction Pills"" (and a shirt) at #WWDC Stump the Experts for correcting their answer to @mxweas's question. ;P"
+78317880579592192,2011-06-08 04:30:12,"Wow, my question was actually chosen this year at #WWDC Stump the Experts! I am now standing around waiting to see if they can answer it! ;P"
+77812307413053440,2011-06-06 19:01:14,"OK, the keynote is over, and my iPhone is just about out of battery: I'm off to find @drunknbass, get lunch, and maybe sleep for a while. ;P"
+77808051201118208,2011-06-06 18:44:19,"To be honest, I find that to be an unfortunate tradeoff: it means I am still going to be relying on the PC for my ""long-term photo storage""."
+77807468691992576,2011-06-06 18:42:00,"Here we go: Steve just explained that iCloud's server only stores 30 days of data, and they only push the last 1000 photos to small devices."
+77805214354251778,2011-06-06 18:33:03,"I'm finding iCloud's automatic ""push to all devices"" feature confusing: what if I do not have room for all of my stuff on all of my devices?"
+77801482845556736,2011-06-06 18:18:13,"I always wonder what the business model behind text messages is; as in, is iMessages the kind of thing where ubiquity would bother carriers?"
+77800558022492160,2011-06-06 18:14:33,"The extent to which Apple is currently dominating everything they touch, from software sales to game networks, is staggering and impressive."
+77797110476587009,2011-06-06 18:00:51,"So, with Reader in the new MobileSafari stripping ads, I wonder if more mobile websites will need to retreat behind paywalls to stay afloat."
+77793780195008512,2011-06-06 17:47:37,"Woah... Apple actually willingly took a page from Android, and put their new ""Notification Center"" in a pull down panel from the status bar!"
+77789798089240576,2011-06-06 17:31:47,"I must say, though, that I'm loving all of the UI changes Apple is making to unify OS X and iOS: I hope the iOS 5 talk is likewise unifying."
+77789214716067841,2011-06-06 17:29:28,Lion's App Store has sandboxing along with its old restrictions; the next obvious step in 10.8 is to default disallow unsafe non-Store apps.
+77757056077135872,2011-06-06 15:21:41,"Yep: @mxweas, @chpwn, @aaronash, @stroughtonsmith, @bensen, Britta, Pat and I waited outside in line all night for today's keynote. ;P #WWDC"
+73061637376053249,2011-05-24 16:23:46,The silliest thing about it is that I'm almost (but not quite) done with a complete redo of my repository that would no longer rely on them.
+73061165432971264,2011-05-24 16:21:53,"Ugh. Last night I went to sleep more tired than I recently remember; and, of course, that is the night that 1&1 breaks apt.saurik.com on me."
+62294201244721152,2011-04-24 23:17:49,"After 86 hours offline, Cydia is finally back! I'm eating some celebratory cake, and am looking forward to a night with &gt;1.5 hours of sleep!"
+61012347975770112,2011-04-21 10:24:11,"Amazon EC2 (which does host the primary Cydia website, purchasing, etc.) is currently experiencing severe issues: nothing I can do but wait."
+60414228108017664,2011-04-19 18:47:29,"My SHSH proxy (which has never been run off of EC2) had a simple code sync SNAFU keeping it from saving ""new"" blobs. :( This has been fixed."
+56637548256178177,2011-04-09 08:40:18,"Just arrived at #codeconf (& ran into @mojombo, GitHub co-founder, at the hotel registration desk ;P); if anyone else is attending, find me!"
+55338925622968320,2011-04-05 18:40:02,"Amazon has managed to both fix and remove the broken load balancer (yay Premium Support), fixing the ""Not found (error to origin)"" in Cydia."
+55330377056796672,2011-04-05 18:06:04,"Amazon ELB = fail :( Right now resolves to 3 IPs, one of which simply doesn't work. Have ""Premium Support"" and am on the line with them now."
+55010266169081856,2011-04-04 20:54:04,@daringfireball Quick clarification: I was not involved in the ads run by Velti (for Toyota) on ModMyi (independently run Cydia repository).
+53394272535330816,2011-03-31 09:52:41,"Cydget, that cool ""switch between lockscreens"" extension (;P), now supports iOS 4.x (2.2-4.3) /and the iPad/ as of the new version 0.9.4000."
+51665950226907136,2011-03-26 15:24:57,"Apparently the ""1.1 rush"" (130,000 users in 3 hours) is hammering many third-party repositories (like BigBoss): please be patient with them."
+51638428009377793,2011-03-26 13:35:35,"If you are one of a few users that got a Hash Sum Mismatch while downloading Cydia 1.1, I have worked this issue out with my CDN: try again?"
+51631944903045121,2011-03-26 13:09:49,"If you run a repository: Cydia 1.1 now uses a file ""CydiaIcon.png"" off your server (same directory as ""Release"") as your icon under Sources."
+51630716638855168,2011-03-26 13:04:56,"Note: installing Cydia 1.1 removes older default packages. This is normal: repositories are managed differently, and will not be deleted. ;P"
+51618637282426880,2011-03-26 12:16:56,"Cydia 1.1: faster, slimmer, and more stable; including an improved search algorithm and ""resume where you left off"". Available in Cydia now!"
+49294109952839681,2011-03-20 02:20:06,"""3 months of server work"", a story told in graphs: http://tinyurl.com/cy012011rt http://tinyurl.com/cy022011rt http://tinyurl.com/cy031911rt"
+49138601308602368,2011-03-19 16:02:10,"(Random SNAFU's during the transition: some users in Korea got errors related to ""Cydia for iOS 1.x"" ;P and cookies weren't being saved :(.)"
+49137678536548352,2011-03-19 15:58:30,"Just switched Cydia's www over to the new ""CDN-&gt;ELB"" stack I've been building: requests to / from my apartment are down from 0.45s to 0.25s!"
+43751825798598656,2011-03-04 19:17:02,"So, until such time as PayPal manages to clear their Internal Error issue, payment status displays in Cydia are going to be intermittent. :("
+43751616955953152,2011-03-04 19:16:13,"I have A) corrected my UI issue and B) refunded all users who reset a working payment; but, of course, I can't fix PayPal's underlying fail."
+43751446365208576,2011-03-04 19:15:32,"As Cydia (incorrectly) gave users an option to ""start over"" payments when PayPal returned this error, some people have managed to pay twice."
+43751427004317696,2011-03-04 19:15:27,"So, @PayPalSMB is having serious issues over the last 12 hours: /over half/ of my GetTransactionDetails requests return ""Internal Error"". :("
+35724323616600064,2011-02-10 15:38:31,"(I actually have reason to upgrade an AppleTV to 4.3 today to work on 4.3 MobileSubstrate, and while I'm at it I'm going to look into this.)"
+35722469096562688,2011-02-10 15:31:14,"Based on the snippet Engadget put in their article, /my/ guess is that Apple is adding something like ""NBA playoff schedule"" to the AppleTV."
+35722210345746432,2011-02-10 15:30:13,"Engadget seriously believes that ""ATVGamesStandingsController"" has to do with physical game controllers as opposed to model-view-controller."
+35085194767761408,2011-02-08 21:18:56,"Additionally, and humorously again correlated but entirely unrelated (we share no infrastructure), Kyle reports apt.modmyi.com is now fixed."
+35085054229221376,2011-02-08 21:18:23,CDNetworks reports that the intermittent 304 caching behavior on apt.saurik.com should now be fixed. (Thanks to @pyfgcrl for helping debug!)
+35061850949287936,2011-02-08 19:46:11,(The fails for apt.saurik.com should be isolated to a few small geographic regions for just a few files; I've routed around ones I know of.)
+35061624431706112,2011-02-08 19:45:17,"Totally unrelated (:o), apt.modmyi.com and apt.saurik.com are causing ""size mismatch"" errors. Kyle and I are (separately) working on issues."
+30357053323091968,2011-01-26 20:11:00,"Ok, and ZodTTD now has fixed it /again/. If your Cydia is ""blank"" just go to Changes, click Refresh, and then restart Cydia: no big deal. :("
+30355937722114048,2011-01-26 20:06:34,"ZodTTD/MacCiti seems to have re-uploaded the corrupted Packages file after they fixed it. I am bothering them again, probably fixed soon. :("
+30328890148782080,2011-01-26 18:19:05,"ZodTTD/MacCiti uploaded a corrupt Packages file update an hour ago, causing problems for some users: that issue has been resolved. (Doh!) ;("
+29302951986077696,2011-01-23 22:22:22,"Note: ModMyi is a little unstable/slow today. Kyle says he is working on it, but I'm assuming it's the heavy traffic from the Themes update."
+29172877576114176,2011-01-23 13:45:30,"The second feature to use my Whole Package Index, the ""Cydia Theme Center"", went up an hour ago, and 15,000 people have already tried it! ;P"
+28025932191105024,2011-01-20 09:47:57,"(On the brighter side: my new ""full package index"" has, in fact, caused repositories to weed out all the corrupt and damaged package files.)"
+28018994627743744,2011-01-20 09:20:23,Downloads of Cydia products from ZodTTD/MacCiti didn't work today (403): Zod's fixing now. (I really need to finish those automated alerts.)
+27798834780315648,2011-01-19 18:45:33,"Okay! Moved most of Cydia's site to the new database/index, and the first new feature using it is online: a ""what do I already own"" list. ;P"
+27024864070078464,2011-01-17 15:30:04,I just wasted /three hours/ putting together a test case to demonstrate a bug that ended up being me using LC_ALL instead of LC_ALL_MASK. :(
+26658188027764736,2011-01-16 15:13:01,"Spent the night updating the SHSH queue and finishing my APT metadata scanner, which, with my new centralized database, is going to be epic."
+26283681425391617,2011-01-15 14:24:52,"If you need or want to install the same underlying file to a hundred different filenames, go for it: but hardlink them all to the same data."
+26283461320900609,2011-01-15 14:24:00,"It is really annoying that themers are now responding ""duplicate images necessary"" when that has nothing to do with storage in a package. :("
+26150788367646721,2011-01-15 05:36:48,"I noticed that a lot of packages (themes) have duplicate (wasted) files, so I've written an article on hardlink. http://www.saurik.com/id/13"
+26106145949097985,2011-01-15 02:39:24,ModMyi's source is only temporarily broken: please do not panic; I've been working with them today to help isolate a few download issues. :)
+25781581595549696,2011-01-14 05:09:42,Spent most of today detecting corrupt packages in default repositories and coordinating to get them fixed: am hoping to do automated alerts.
+24941238343958529,2011-01-11 21:30:29,"If your Cydia CSS is broken, try Reload. Additionally, I've asked for a CDN purge of that file, so maybe that will be better fixed soon-ish."
+24938669823496192,2011-01-11 21:20:16,The @intellibornco guys gave me a graph that demonstrates the performance effect from yesterday's upgrades! ;P http://tinyurl.com/cy012011rt
+23532721670201345,2011-01-08 00:13:32,"I feel like I spend most of my time on infrastructure: was DDoS'd today, am moving a database tonight, and reworked the TSS cache yesterday."
+13997416810291200,2010-12-12 16:43:38,"Yeah, TSA was loving me today... 2 MacBooks, 2 iPads, 2 iPod Touches , and 8 iPhones. The joy of traveling while working on a Cydia release."
+13982914366668800,2010-12-12 15:46:01,"""/dev/sda7 has gone 1248 days without being checked, check forced."" Wow, I had forgotten that this server had even existed for that long. ;P"
+13976487422074880,2010-12-12 15:20:28,"Doh! :( Accidentally left a headset plugged into my iPhone overnight, causing me to miss texts regarding OOM+e1000 fail on load balancer. :("
+10727839707963392,2010-12-03 16:11:30,"Ok: the new ""sbreload"" tool is in uikittools 1.1.0. ;P (Source code for uikittools has moved to git: ""git://git.saurik.com/uikittools.git"".)"
+10691575264845824,2010-12-03 13:47:24,"In order to fix ""Cydia's badge does not update during reboot/respring"" I had to research a totally new (cleaner) way to restart SpringBoard."
+9992722941218816,2010-12-01 15:30:25,"It was a grueling all-nighter, but I got the latest Cydia ported to 2.x and 3.x with only one minor UI issue left to be looked at by @chpwn."
+9012202052784128,2010-11-28 22:34:11,"BTW, to people saying ""you could have unchecked a box"", I did say ""by default"". Also, that box is a not a normal checkbox and is greyed out."
+9011211282685952,2010-11-28 22:30:14,"So, @ModMyTech wondered what my ""twalue"" was. I Googled it, tried it, and it seriously tweeted the result, as me, by default. Twalue = LAME."
+7205958853853184,2010-11-23 22:56:49,"Major thanks to @StealthBravo for telling me that Music Controls had a corrupted plist (and to @phoenixdev, the dev, for fixing it so fast)!"
+7205028683055104,2010-11-23 22:53:07,"Until Substrate 0.9.3367, if an extension had a corrupt plist, it could get loaded into ""everything"", which with 0.9.3366 included lockdown."
+6875095825915905,2010-11-23 01:02:05,"@poisixninja Cydia for 4.2 is ""final"" and is only waiting for someone to demonstrate a jailbreak with working kernel patches. ;P"
+28022002100,2010-10-21 12:32:38,*Sigh*. :( Hours of semi-fail from moving to Ubuntu Cloud Maverick earlier today: random lockups in ext4's JBD2 under load. (Back to Lucid.)
+27955977371,2010-10-20 18:50:23,"OMG, an 11"" Air? They win: I am now ""a Mac"". Apple is /even/ making me like OS X with Lion. 360|MacDev (December) just got more exciting. ;P"
+27871073930,2010-10-19 21:45:25,"@phaim11 Yes: the N1 can be flashed. Unfortunately, it has been discontinued for sale to end users and has fluctuating stock for developers."
+27864942792,2010-10-19 20:16:35,"As much as I appreciate that Android is ""open source"", @arubin, the platform is not ""open"" if all the hardware prevents using modified code."
+27770514848,2010-10-18 21:23:37,I seriously had a nightmare last night that I missed the first hour of tonight's (CCS) talk by @brianjfox (author of bash/readline/texinfo).
+27424376905,2010-10-15 09:07:50,"After spending the last few days on Cydia website performance, I recommend avoiding the Ubuntu EC2 2.6.32 kernels: only use the 2.6.31 AKIs."
+27007683293,2010-10-11 05:37:45,To all who experienced server fail today while I was at TEDx: I found an early transaction around a session lookup. It should be better now.
+26964373896,2010-10-10 19:27:51,"Today I'm at @TEDxAmericanRiviera, where I am giving a talk during the second segment! Watch at http://tedxamericanriviera.com/ ~1:45pm PST."
+26551571761,2010-10-06 13:36:15,"In case anyone is curious: no, I did not store even slightly important information in MongoDB. My use of it was only for logs/statistics. ;P"
+26551168143,2010-10-06 13:31:21,"*Sigh*. :( MongoDB crashed (and now requires a long ""repair""). Luckily, I had mostly stopped using it, so I moved the final use back to SQL."
+26469064987,2010-10-05 15:59:26,"At airport security: ""Excuse me? Who has the bag with four cell phones?"" *back through X-ray* ""I'm sorry... five cell phones?..."" #gdconline"
+26055966778,2010-10-01 06:23:09,"The ""PayPal #10001: Internal Server Error"" message you got is from PayPal, not from me: PayPal went offline for a few minutes. :( @iChingPow"
+26022226387,2010-09-30 22:50:14,"Yay! (AppleTV2,1 arrived!) As this device uses the same SHSH restore process as other recent devices, I recommend using my signature server."
+24174133367,2010-09-11 06:33:01,"@OneBiggBoss @rockyourphoneco has been working with me on the data import process, and all user's APT backups will be available in Cydia. ;P"
+22730672563,2010-09-01 18:29:57,"So, I've been reloading http://apple.com/itunes/ waiting for iTunes 10 to be up. That page changed, but /itunes/download/ is still 9.2.1. ;("
+22729104152,2010-09-01 18:06:41,"(Doh! I totally missed the AirPlay mention, which everyone's pointing out will handle the iPad Home Sharing comment in 4.2. That's awesome!)"
+22728943314,2010-09-01 18:04:21,"When I see data integration like this I always wonder ""how the deal went down"": like, did Rotten Tomatoes pay Apple or the other way around?"
+22728256283,2010-09-01 17:54:40,"Steve's comments that users ""don't want syncing"" should really be applied to the iPad: I want to use Home Sharing on it to stream movies. :("
+22728057630,2010-09-01 17:51:52,"Apple really wants us to be spending a lot of time browsing the web in iTunes... maybe Google needs to release ""Chrome Frame"" for it now. ;P"
+22726422693,2010-09-01 17:29:55,"Woah! Steve Jobs just said ""with my other iOS devices"" in regards to this iPod Nano (which certainly /seems/ to be running iOS): Cydia Nano?"
+22725330454,2010-09-01 17:15:14,"I don't have data on ""unique activations"" right now (scaling issues on that query), but there are 90,000 jailbreakme.com jailbreaks per day."
+22724418283,2010-09-01 17:03:08,"Watching the Apple event via apple.com live stream feels totally posh: every previous event has been about ""anyone have a uStream feed?"". ;P"
+20963245635,2010-08-12 09:58:38,@t2krambo MobileTerminal 426 is missing all of the features that make MobileTerminal useful (like gestures); scrolling doesn't even work. :(
+20962636342,2010-08-12 09:45:11,An alpha-quality MobileTerminal for iOS 3.2/4.0 (it hates some devices): http://bit.ly/aFaFmX
+20958834996,2010-08-12 08:21:01,"So, ""fix the PDF exploit"" became my project. I've tested on 2.2-4.0.1 on a bunch of devices, but need feedback. http://tinyurl.com/nopdf3244"
+20921898837,2010-08-11 22:26:34,"(BTW, not that I think it likely, but if enough people make a fuss over the old devices not being patched, maybe Apple will actually do it.)"
+20920251329,2010-08-11 22:01:51,"@Bodomjarvi Actually, you are totally wrong: the PDF exploit affects all previous revisions. You can do 3.1.x yourself with jailbreakme.com."
+20918345888,2010-08-11 21:33:08,"Once jailbroken, users must install ""PDF Loading Warner"" until @cdevwill finishes his exploit patch, and verify PDFs are from trusted sites."
+20918100274,2010-08-11 21:29:27,"IMPORTANT: if you still use an iPhone 2G or iPod Touch 1G, Apple WILL NOT update your device. Your now NEED to jailbreak to secure yourself."
+20917808357,2010-08-11 21:25:01,"Wow; I just lost all respect for F-Secure and @mikkohypponen for completely misrepresenting 4.0.2, jailbreakme.com, and ""jailbreak vendors""."
+20494938195,2010-08-06 19:59:32,"@mikkohypponen F-Secure's ""Q&A"" is making something that is not a fundamental bug (SSH) sound worse than something that is (PDF Exploit). :("
+20365127581,2010-08-05 05:35:01,"As many users discovered, the Skype redux fix broke Maps. I spent most of the day fixing this bug in MobileSubstrate 0.9.3228. @kevinrose ;P"
+20294560499,2010-08-04 10:28:58,"With @comex's jailbreak out and behind us, I'm back on fixing duty: new MobileSubstrate fixes Skype redux and Cyntact is in high resolution."
+20115046953,2010-08-02 04:48:44,"Woah, maybe these problems that come up every time my servers get stressed were actually psycopg2, not pgbouncer... upgrading really helped."
+20113931252,2010-08-02 04:27:30,"I don't know why pgbouncer is so fail, but it is so unstable as to be nearly unusable under load. I don't know how Skype puts up with it. :("
+20098378938,2010-08-02 00:13:13,"For people who were having troubles accessing jailbreakme.com, I've been working with @comex to improve its hosting: it should scale now. ;P"
+19694440080,2010-07-27 23:25:50,"(I believe the only trusted sources of information on jailbreaks are their developers; hence, why I never claim I know release information.)"
+19694091416,2010-07-27 23:20:10,"(For those going ""wtf"", I was asked in an interview ""Is iH8sn0w a trusted source of information on the upcoming jailbreak?"", and said ""no"".)"
+19692383747,2010-07-27 22:53:08,To @veeloc: Many users don't know who to listen to for updates. :( The last time people decided to listen to someone random we lost @geohot.
+19691780790,2010-07-27 22:43:24,"(To those like @Skypirate76, asking about specific team members, @planetbeing and @MuscleNerd are real accounts and members of @iphone_dev.)"
+19691530721,2010-07-27 22:39:16,"To be clear: @comex, @chronicdevteam and @iphone_dev are sources. @iH8sn0w has no knowledge of upcoming jailbreaks. (@_geohot is fake, btw.)"
+19690326010,2010-07-27 22:19:27,"So, @ih8sn0w says (and I believe) #pie was a joke. While he isn't an official news source, I do apologize for making him sound deceiving. :("
+19478173529,2010-07-25 06:42:47,"If you care: iAds and oo.apple.com get your UDID via the HTTP header X-Apple-Id, sent only to https://*.{apple,quattrowireless,qwapi}.com/*."
+19411119129,2010-07-24 10:00:14,"Users of iPhone 3G and 2nd Gen iPod Touches: when restoring to iOS 4.0 or later, iTunes now performs SHSH verification. Register with Cydia!"
+19410621111,2010-07-24 09:47:26,"I have spent the last week, nearly straight (nearly without sleep at times), working on the SHSH server. It is now /much/ faster and scales!"
+17043166322,2010-06-25 20:55:41,On a two hour long cab ride to Sebastopol so I have time on the way to redo my Ignite Foo presentation (which is apparently /today/). @brady
+16934129143,2010-06-24 14:43:35,"(No, they are not cheering for /me/: it is because the store opened. I just found it funny that it was /only the employees/, not customers.)"
+16931677728,2010-06-24 14:07:55,"(I'm in line to get my reserved iPhone 4.) There's clapping and cheering at the Apple Store here, but it's by employees, not customers (;P)."
+16775835057,2010-06-22 14:35:43,"Just got word from ModMyi that their server seems to be working again, and I've verified I can now wget their Packages.bz2 file. Refreshify."
+16772347678,2010-06-22 13:42:22,"Waiting for Veency on 4.0? Upgrade to 0.9.3197. Yesterday's release of 0.9.3193 was the wrong version: yes, I make silly mistakes. Shoot me."
+16771249323,2010-06-22 13:23:39,"Unable to refresh sources? ModMyi's server is currently broken. I've already told them, they're already working on it, so just chill out. :("
+16770943038,2010-06-22 13:18:05,"""Reload SpringBoard"" stuck? Reboot. The jailbreak Illuminati chose ""risk of harmless stuck"" over ""forced reboot"" due to tethered jailbreaks."
+15771099267,2010-06-09 09:51:22,"Late meal with @mxweas and @NorthIsUp, where the @DistinctDev guys showed me their app, The Moron Test, killing the next hour of my life. ;P"
+15729332212,2010-06-08 20:08:57,"Last year, WWDC Q&A was almost entirely ""no comment"". This year, they don't even have Q&A anymore, and they removed the iPhone office hours."
+15648652211,2010-06-07 18:44:48,"Time to add dates to Calendar: the iPhone 4 comes out June 24, with pre-orders starting on the 15th. ""Fastest [international] rollout ever."""
+15648434825,2010-06-07 18:41:07,"Woah: they intend to make FaceTime an ""open industry standard"". This could beget a seriously amazing short-term future to mobile video chat."
+15648281428,2010-06-07 18:38:17,"The new ""FaceTime"" feature is epic. It is unclear, though, whether one-way will be possible to older devices, or if it will work with iChat."
+15647449607,2010-06-07 18:23:20,I'd love to know how many of the &gt;100 million iOS devices Apple has sold/shipped are still in the field (neither destroyed nor replaced).
+15647266359,2010-06-07 18:20:10,"As I know people are going to be confused: that is /not/ an end user release. Apple will certainly give everyone, even us, time for testing."
+15647177641,2010-06-07 18:18:35,"iOS 4 ""Golden Master Candidate"" comes out today, which means a lot of epic discussion in jailbreak-land. (Betas 3/4 had some major changes.)"
+15646066445,2010-06-07 17:59:15,"Apple did some seriously epic work on the camera (larger, not denser, sensor; backside illumination), but didn't mention improving the lens."
+15645332683,2010-06-07 17:47:11,"Wow... an Apple demo, run by Steve himself ;(, failed horribly due to network collapse... I'm floored: déjà vu of the Google TV fail at I/O."
+15645148487,2010-06-07 17:44:09,"The ""un-Apple"" comment I made was not my personal commentary: Steve Jobs was quoting users reviewing the lost prototypes online. @amazingant"
+15644918670,2010-06-07 17:40:21,"The new iPhone 4 screen is higher resolution than the human eye. The iPad, supposedly an eReader, is even worse than the original iPhone. ;P"
+15644679570,2010-06-07 17:36:28,"I love how Jobs is actually breaking down the case construction to show how the ""un-Apple"" seams in the case are an EPIC new antenna design."
+15644464744,2010-06-07 17:33:10,"""Number one: an all new design. Now: how many of you have already seen this?... ;P... Well, trust me, [...] you have to see this in person."""
+15644324434,2010-06-07 17:31:02,They are now talking about market-share and web usage versus Android without discussing relative growth rates between the two platforms. ;(
+15643976971,2010-06-07 17:25:12,"""With Farming on the iPhone, they are going to be able to farm anytime, anywhere."" -- Zynga (not sure this is positive: poor addicted users)"
+15643462621,2010-06-07 17:16:29,"Steve Jobs avoids the real issues. It isn't about apps that are rejected: the problem is with things that aren't apps at all, like Latitude."
+15643106542,2010-06-07 17:10:35,I hate unfair comparisons. The Elements for iPad app was so successful because Apple promoted it: something 99.99% of developers won't have.
+15642023258,2010-06-07 16:52:55,"All the good seats at #WWDC are reserved for the media. At #io2010, they saved seats for ""I/ON"" attendees (those who had been to every I/O)."
+15637194649,2010-06-07 15:35:13,"A lot of people are asking me what was in that box from KBS. ;P Near as I can tell: a business card holder, a keychain, and a letter opener."
+15634542928,2010-06-07 14:55:11,The reporter interviewing me from the Korean Broadcasting System gave me a sweet gift (it was even wrapped ;P). http://tinyurl.com/saurikkbs
+15625711489,2010-06-07 12:29:36,"(#WWDC I got here at like 2:30AM, but as I didn't get here the day before to pick up my badge, I figure I may as well not have bothered. ;P)"
+15622255995,2010-06-07 11:19:07,#WWDC @mxweas got here at 6:30PM the day before today's keynote to get in line; news crews are interviewing us. http://tinyurl.com/wwdcmxwkn
+14940653351,2010-05-29 00:02:28,"Am at a panel discussion at FanimeCon about ""manga on the iPhone"": it had not occurred to me that these are often explicit content to Apple."
+14939279655,2010-05-28 23:34:16,"@Iphone_mobb Dude: *chill out*. You posted someone's question, highlighting it on your feed, and I answered it. http://tinyurl.com/ipm-chill"
+14518957220,2010-05-22 22:10:11,"#MakerFaire @mxweas got to ask @donttrythis if his iPad's jailbroken (it's not :( video later) by holding up a giant iPad ""?"" (BiggerWords)."
+14379976049,2010-05-20 19:06:41,We actually have reporters watching our check-in's. -- Chrome Web Store Engr. (on running an open source project when you're Google) #io2010
+14374739805,2010-05-20 17:20:03,"Ok, so the Google TV code is going to be open soured to Android and Chrome... but am I going to be able to actually install a modified copy?"
+14374250414,2010-05-20 17:11:11,"@rigbyrj @JustinDerrick The Today Show was playing clips from Old School, and the news was talking about Nicolas Cage's recent sex scandals."
+14374020443,2010-05-20 17:06:56,"@KellyLSB Google TV is a hardware device, and isn't out quite yet. It runs Android, Chrome, and Flash, and seems to be marketed like a DVR+."
+14372934572,2010-05-20 16:47:45,"@scotty6kids78 I haven't used an Apple TV yet, so I cant really comment to compare. I think the iTunes / Apple TV connection is key, though."
+14372766841,2010-05-20 16:45:02,"(I'm actually enjoying the reality here, but I am not the average customer: I like seeing the presenters as ""real people"", taking risks. ;P)"
+14372376494,2010-05-20 16:38:08,"(OMG the Google TV demo failed: they have no bandwidth, the demo is delayed as they switch boxes, and /very unfortunate content/ is on TV.)"
+14370863096,2010-05-20 16:12:23,"Ok, I was totally not expecting that... Vic just announced the (future, I think?) ability to purchase music from the Android Market. #io2010"
+14370478749,2010-05-20 16:05:45,"(Vic, btw, is rocking today's I/O keynote. The pace is great, the demos are really resonating with the audience... it's even funny.) #io2010"
+14370283757,2010-05-20 16:02:27,"It turns out that on the Internet: /people use Flash/, and part of being open is being inclusive, rather than exclusive. - Google VP #io2010"
+14369513958,2010-05-20 15:49:40,"@DdarkReaper The 8GB ""iPod Touch 3rd Generation"" is not the new hardware: it is a rebranded 2nd Generation. Apple sales people often forget."
+14369334432,2010-05-20 15:46:41,"In today's Google I/O keynote by Vic Gundotra (VP of Engr.), he seriously went so far as to make a blatant Apple-as-1984-overlord reference."
+14368904723,2010-05-20 15:39:40,"I you believe choice, if you believe in openness... if you believe in innovation from /everyone/: welcome to Android. -- VP of Engr., Google"
+14340474430,2010-05-20 04:38:26,"This year, I replaced the 2'x3.5' ""iPhone"" sign with an iPad running Bigger Words (by @dom). (/Bad/ picture. ;P) http://tinyurl.com/io2010jb"
+14325168611,2010-05-20 00:00:56,"Google I/O rocks; I just got to meet one of the developers of Prezi, that crazy non-linear presentation software I use when I give talks! ;P"
+14304144787,2010-05-19 16:39:29,"""DreamWeaver is the most popular pro HTML editor... (besides notepad)."" -- Adobe CTO, at Google I/O (Adobe is in the keynote, talking HTML5)"
+14302655224,2010-05-19 16:09:11,"""That second spike is Apple's use of HTML5; I think it was a Steve Jobs late-night e-mail or something."" - Google VP of Engr., at Google I/O"
+14249352306,2010-05-18 20:50:08,You can apparently use Wi-Fi Sync to deploy / debug from Xcode over Wi-Fi! (Some people needed this at #360iDev.) http://www.bradya.com/?p=4
+14172283308,2010-05-17 16:59:41,"Doh! I kept saying I'd fill out the registration application for TED 2011 after the iPad jailbreak was over, but now I see they sold out. :("
+14163939590,2010-05-17 14:22:30,@awyeong The 3 million figure is just the count of ECID/firmware pairs saved on my server; almost that many devices open Cydia each week. ;P
+14163221498,2010-05-17 14:09:28,"@cmelbye The SHSH display simply required too many joins; a read-only slave would also help, but the materialized view is more efficient. ;P"
+14115515916,2010-05-16 19:21:28,The what-SHSH-do-I-have-saved display in Cydia is now back: my database server finally finished materializing the &gt;3 million row view! ;P
+13946739888,2010-05-14 01:17:54,"(Talking to Sprint is now ""old hat"". This time it only took ten minutes to get the charges cleared... I bet I can do even better next time.)"
+13943915857,2010-05-14 00:22:56,What?! Sprint has /again/ decided to claim against my very closed account. Do I need to sue them or something? Sprint is a phishing scam! :(
+13784806999,2010-05-11 12:06:40,"While working on further improvements to the in-Cydia website, I (accidentally) had the SHSH proxy servers down for two hours. :( Fixed now."
+13687070172,2010-05-09 20:47:55,"So, the previous Cydia website speed improvement ""didn't stick"", and after actually getting a night of sleep, I managed to track it down! ;P"
+13615903835,2010-05-08 16:05:05,(The in-Cydia website is much faster; finished some post-Spirit scalability work: &gt;10 seconds to &lt;1; still need to optimize SHSH displayer.)
+13615439127,2010-05-08 15:56:06,"Ok, I've managed to find/fix a bug where some themes were getting forced gray icon labels in cases that were not required by SummerBoard. :("
+13613145853,2010-05-08 15:11:41,"Five Icon Dock 0.9.3175-2 fixes an uninstallation bug, but then did weird things if you tried to add a sixth dock icon; fixed in 0.9.3184-1."
+13612539606,2010-05-08 15:00:30,"To minimize user pain, I will release a new version of WinterBoard when I wake up that comes with a theme that lets you force whited labels."
+13612401102,2010-05-08 14:58:00,"That said, some users say the new version of WinterBoard has suddenly started graying icon labels: that probably means it is working better."
+13612254498,2010-05-08 14:55:16,"iPhone OS 1.x, where SummerBoard existed, had gray icon labels. WinterBoard has /always/ grayed out icon labels for backwards compatibility."
+13549437650,2010-05-07 13:45:36,"While not 100%, @DHowett and I have made great progress on WinterBoard's iPad support with version 0.9.3182. ;P http://tinyurl.com/wbipadcls"
+13326260920,2010-05-03 21:13:35,"The Spirit site is being hit hard. If you couldn't download it earlier: try again; those URLs now redirect to me, should work, and are fast."
+13320365302,2010-05-03 18:54:08,"C) PgBouncer's ""max fds possible"" = 5156; ulimit -N, however, = 1024. D) nginx's proxy_*_timeout too short, causes users to restart queries."
+13315417616,2010-05-03 17:00:22,A) TSS proxy wasn't using PostgreSQL balancer. B) nf_conntrack fail due to too low ip_conntrack_max due to sysctl name change in new kernel.
+13315330879,2010-05-03 16:58:32,Cycle of fail begins: scaling issues need attention -&gt; engineer (me) is paged -&gt; less sleep -&gt; less effectiveness -&gt; more scaling issues. ;P
+13295601959,2010-05-03 09:00:16,"@ryankentp If it boots up looking like a giant iPod Touch, respring; BigBoss may have released an older SBSettings. MobileSubstrate is safe."
+13288422553,2010-05-03 05:06:47,"What?! Why? That bar is just an indicator, and with Spirit even 3.1.3 is jailbreakable. The proxy is still running! @Par4doX8 @kabelkombinat"
+13288153739,2010-05-03 05:00:07,"@3452dima Maybe wait a little longer, I did a little defer of Changes processing to ""as needed"", and maybe that is burning your use case. :("
+13288125957,2010-05-03 04:59:26,"Now I'm confused: the SHSH status bar, which tells you what firmware revisions you have an SHSH on file for, is not an important service...."
+13287448820,2010-05-03 04:41:57,The SHSH status bar at the top of Cydia was so slow after Spirit came out that I disabled it temporarily. @Bababooey13 @Rene818 @Loco_Gemini
+13281543758,2010-05-03 02:35:06,"@jopie89 Cydia supports translation files, but it has been difficult to maintain a number of those translations ""in house"". E-mail me ideas?"
+13063932128,2010-04-29 11:42:29,"I just saw Facebook fixed the bug I was having with OpenGraph and the Like Button social plugin, so I've pushed ""Recommend"" up to Cyrket.com"
+12849593647,2010-04-25 23:38:17,"In case anyone is keeping track: the Facebook Developer forums are finally back online, but now they've lost the forums for the new APIs. ;P"
+12842333139,2010-04-25 20:57:27,The jQuery conference has been much more valuable for my work than I even thought it would be; I don't spend enough time talking to @wycats.
+12841382049,2010-04-25 20:35:23,"@Maxime95k 4.0 is not coming out tomorrow, and we /do not support/ beta builds. You can use it, and it may work, but it has no ""support"". :("
+12841233260,2010-04-25 20:32:05,"@Maxime95k (Really, all that is wrong with Cydia on 4.0 is that redsn0w comes with a build that I compiled with ""internal debug build"" set.)"
+12841164702,2010-04-25 20:30:34,@Maxime95k I already said on Twitter (read recent history...) that I will be making Cydia run fully on 4.0 when I get back from conferences.
+12840968595,2010-04-25 20:26:05,"@Maxime95k AFAIK, neither the iPhone Dev Team, nor any of the major developers, ""support"" beta builds of Apple's software (nor should they)."
+12838259534,2010-04-25 19:25:33,"@remco72 The tiffany.py script (for creating .diff/Index), was replaced by rredtool in reprepro 4.1.0, which makes faster, ""merged"" patches."
+12837942470,2010-04-25 19:18:28,"After a /year/ of arguments, I'm finally making progress getting repositories to use .diff/Index: today's BigBoss update was 1kB, not 600kB!"
+12791443887,2010-04-25 00:19:50,"Objective-C blocks are also first-class Objective-C objects: that's awesome; you'd then think that you could introspect the type, but no. :("
+12777434932,2010-04-24 18:36:57,"@Dodior The 4.0b1 redsn0w is an unsupported beta. In a few days, when I get home from conferences, I'm going to work on its Cydia bootstrap."
+12776814183,2010-04-24 18:22:30,Has anyone gotten the Admin Page feature of Facebook's Like Button social plugin to work for Open Graph objects? It just opens the og:url...
+12776435567,2010-04-24 18:14:00,@ph1rehose Almost every ad you see in Cydia comes from a repository; I have no control over what repositories put on their package websites.
+12676902615,2010-04-23 02:18:58,The Facebook Developer Forum seems to have reverted two years of data; and I actually don't feel like that's not business-as-usual for them.
+12663093413,2010-04-22 21:51:11,"Without id?url=, it isn't possible to convert an Open Graph object into a Facebook Page ID for use with other Graph API calls. @Danieltwiter"
+12662224171,2010-04-22 21:31:27,@Loco_Gemini @TurboDrift @JD667 @hoodstah @Samphotog Ste's repository is gone. A new cydia-sources was released /two weeks ago/: upgrade. :(
+12662050197,2010-04-22 21:27:33,"@Helpmy360isEMO MobileSubstrate is but two functions, both of which are documented at http://www.iphonedevwiki.net/index.php/MobileSubstrate"
+12661950787,2010-04-22 21:25:15,"@terinjokes I actually have been doing Facebook development since the original Platform beta, but tend to dislike it as the API is unstable."
+12661431620,2010-04-22 21:13:30,"The most important Facebook Graph API endpoint was arguably graph.facebook.com/id?url=, and they seem to have removed all mention of it?! :("
+12589434461,2010-04-21 17:50:58,"Facebook may actually have nailed this ""Open Graph"" concept... I'm concerned their ""type"" options will be limited, but I'm truly excited. ;P"
+12589148814,2010-04-21 17:44:33,"""No code"" implies ""inflexible""; Amazon FPS (F = Flexible ;P) revolutionized online payments by targeting developers. @elvestinkle @borzowsky"
+12588326599,2010-04-21 17:26:26,"I have a hard time understanding why ""without writing a single line of code"" is considered a /feature/ when speaking to software developers."
+12588032760,2010-04-21 17:19:59,"Huh... at #f8 (Facebook conference), and they just announced they are dropping the ""no storing user data"" clause... not certain I like that."
+12544906503,2010-04-20 23:51:26,"@solitary_1 Awesome! Fitting ad:tech in makes this my tenth straight day of conferences, and I'm not even done yet (f8 and jQuery still up)."
+12544709511,2010-04-20 23:47:15,"@terinjokes Yeah: PPC Mac isn't a supported platform for the open toolchain, but if you send a patch to fix th build I'll happily commit it."
+12320924003,2010-04-17 03:11:09,"At 9:00PM, at #iPadDevCamp, I am giving a talk: ""The Precarities of Pricing and Piracy: a Perspective from the (supposedly) *DARK SIDE*"". ;P"
+12302209576,2010-04-16 20:12:08,"@Bababooey13 I answer a lot of posts by DM, based on whether I feel the response is something anyone else would ever care to read or not. ;P"
+12301886523,2010-04-16 20:04:23,"@comex Flash's ActionScript is a superset of the rather bare-bones ECMAScript version supported by WebKit. Also, JavaScriptCore is private."
+12193776781,2010-04-15 00:40:03,"@lqd @bkpitman ""I don't think anyone's married to the idea that the promoted tweet has to be the tippy-top result."" -- @dickc to @MobileBing"
+12193244386,2010-04-15 00:29:11,"@drunknbass The context was how they will handle the third-party apps / Twitter split, so I believe he was comparing to publishers / Google."
+12190581524,2010-04-14 23:33:09,"I may have misheard, but I think @dickc just threw some light on AdSense's model: Google takes a 15% service fee, and splits the rest 50/50."
+12190213640,2010-04-14 23:25:21,"(If anyone is watching the #Chirp live feed on justin.tv, the guy who just got to stand up and ask the question in my last post was me. ;P)"
+12189544332,2010-04-14 23:11:04,"#chirpqa Wouldn't the new Twitter ""relevancy"" concept end up always highlighting ""resonating tweets""? I still don't get what promoting buys."
+12188651390,2010-04-14 22:52:00,"@pdparticle To me a local machine is a commodity: the form factor matters, the OS does not. ;P Personally, tablets and netbooks work for me."
+12188530329,2010-04-14 22:49:20,"@cromas No: I usually run Windows on my laptops (which i treat as a dumb terminal for Linux desktops/servers), as PuTTY is an epic terminal."
+12185838524,2010-04-14 21:48:02,"@pdparticle At #360iDev Denver, someone took a great photo of the game hack-a-thon, showing ~50 MacBooks... and me, with my ThinkPad tablet."
+12185078338,2010-04-14 21:30:35,"@chirp You won't be asked about a Twitter IPO here because /we are developers/: we want technical details, not investor pitches. :( #chirpqa"
+12184330784,2010-04-14 21:13:17,"@vladgur There actually are keyboard replacements available in Cydia, such as iTypeFastR. I don't know of anyone doing Swype-a-like, though."
+12178121938,2010-04-14 18:47:28,"@sethinsd I use Twitter enough that I feel I should keep up, I like conferences, and #Chirp fit in, right between #360iDev and #iPadDevCamp."
+12170678401,2010-04-14 16:01:37,"Just got settled in for #Chirp, at the Palace of Fine Arts Theatre, along with @TheAfricanNerd (from Efiko Software, of qTweeter / ToneFXs)."
+12130759709,2010-04-13 23:31:53,Awesome hilarity from @chews: an Adobe iPhone Jailbreak CS5 site mockup! ;P We're having a blast at #360iDev! http://twitpic.com/1feqvr/full
+12081390308,2010-04-13 02:37:20,"Here is the ""slide"" from my talk at 360|iDev. ;P (It is really only useful to people who were at the talk...) http://prezi.com/tth30lgorlfp/"
+11834026017,2010-04-08 17:19:39,"OMG, Apple is /finally/ adding wallpaper for 4.0. (I've always said that wallpaper is the #1 thing Apple could add to curb jailbreaking. ;P)"
+11751264326,2010-04-07 11:24:06,"Facebook just decided that users.getLoggedInUser returns a string, rather than a number, breaking Cydia Facebook Connect for a few hours. :("
+11605803404,2010-04-04 21:04:53,"@Linkinus It occurred to me that deleting the app would clear its config, so here's a video. ;P http://test.saurik.com/twitter/linkinus0.mov"
+11604900572,2010-04-04 20:40:49,"@Linkinus Ok, not an ""active window, but /server can't create your first network. I can't do more testing as deleting networks doesn't work."
+11604289550,2010-04-04 20:24:27,"@Linkinus Awesome! For the record, I and others tried /server, just like your screenshot. Playing around more, it requires an active window."
+11559990199,2010-04-04 00:17:10,"@bunnyhero The S in ""iPhone 3G[S]"" is typeset with a small square. I am sorry if my ASCII typography offends you, but seriously: lighten up."
+11558019995,2010-04-03 23:25:26,"@kevwright I, and many others, are hoping for a delayed release of any iPad jailbreaks, to allow the same exploit to be used on 3.2 iPhones."
+11557952825,2010-04-03 23:23:37,"@bradenwh I posted a long description of iPad Twitterific's issues (slow & inflexible) in my review, which you can find in the App Store. ;("
+11557879696,2010-04-03 23:21:40,"@_moberts Cydia's search is slow because it does find-as-you-type on ""short descriptions"", which many packages abuse with &gt;1.2kB of data."
+11557714690,2010-04-03 23:17:21,"Wow... I just received a text message on my iPhone 3G[S], picked it up, and it seriously felt like an ""iPad Nano"" as I typed my response. ;)"
+11556635899,2010-04-03 22:48:36,The iPad version of Twitterific is sufficiently worse than the iPhone one that I'm seriously using the old app in pixel-doubling mode. :( :(
+11556536011,2010-04-03 22:45:52,@iRealSMS I am not so stupid as to not know where the bezel is. Would you like me to send you a picture of my thumb on the screen for proof?
+11555496312,2010-04-03 22:16:49,Note: I don't write jailbreaks; making Cydia itself iPad-awesome isn't actually difficult: it's all the repository web pages that will suck.
+11554932228,2010-04-03 22:00:58,Agreed: the bezel is too short to get good leverage against the curved back; that case design combination makes it unwieldy. @jtarrio @chpwn
+11552890627,2010-04-03 21:02:26,"iPad arrived! I like the aluminum back (I guessed plastic), but it is quite unwieldy to grasp without putting your thumb on the touchscreen."
+11522964169,2010-04-03 06:40:44,"I just heard from @phoenixdev that Apple seems to have rushed a new version of Pandora out: 3.0.1, which now works fine on iPhone OS 3.0. ;P"
+11506692268,2010-04-02 23:52:45,"@davesnothere11 Sure: I'll add a confirm step ""Optimize Theme"" (and that will be a good excuse to add that Conflicts: transparentdock3x ;P)."
+11506577520,2010-04-02 23:49:45,"@SpikedEffect The eight character password restriction has to do with the VNC protocol, not Veency. ;( I can add text in the Settings panel."
+11499522356,2010-04-02 20:39:07,"@Chris102192 A lot of the credit for the new WinterBoard-in-Settings feature belongs to @DHowett, who got the draggable selector working. :)"
+11494922232,2010-04-02 18:41:14,"WinterBoard has always come a 3.x compatible version of Transparent Dock, and that package overlaps files now. :( @glenpimborough @CalvinRSX"
+11491989996,2010-04-02 17:34:45,"@DistortedLoop I actually don't use Pandora, but the people I know who do claim this is a major and awesome upgrade that is worth the patch."
+11491919950,2010-04-02 17:33:17,@Rakundo Yep ;P. I played a lot of SimCity 2000 and was even in a silly competition in middle school with a real-world model of the SimCity.
+11491799947,2010-04-02 17:30:43,The TransparentDockfor3x package that conflicts with WinterBoard should be uninstalled; I don't see a reason why it ever existed. @doofygoof
+11472123313,2010-04-02 09:03:08,"There were some issues using pincrush 0.9-2 with 16-bit PNGs, which @DHowett has fixed with the just released 0.9.1-1. @StalinCCCP @Nazaroth"
+11470619487,2010-04-02 08:05:14,"WinterBoard 0.9.3154-1 is now in Settings, fixes a few 3.1+ specific issues, and can ""iPhone-optimize"" PNG's using pincrush (from @dhowett)."
+11468179394,2010-04-02 06:40:06,"@morpheon My involvement in Element got blown way out of proportion, which really sucked. I'm using it right now, though, and it is awesome."
+11466973188,2010-04-02 06:02:38,Veency 0.9.3146-1 integrates with @ashikase's MouseSupport package to render a local cursor. (The Veency Settings can disable this feature.)
+11466890684,2010-04-02 06:00:19,"Element, designed by @gteehan, implemented by @limneos, built as a Cydget entirely in WebCycript, is now up! ;P http://tinyurl.com/element41"
+11455809867,2010-04-02 01:42:34,"I have not had any problems with using iTunes 9.1 for jailbroken devices, and neither has anyone else I've asked. @PeterIsTheMan @sirius2008"
+11451824717,2010-04-02 00:09:45,"For (techie) users still on 3.0 (like me), you can fix Pandora on 3.0 by patching it with the following bsdiff. http://tinyurl.com/pandora30"
+11450505750,2010-04-01 23:37:04,"So, due to the ludicrous risk that Pandora took that I explained in my previous twitter post, users on 3.0 SHOULD NOT upgrade Pandora today."
+11450438889,2010-04-01 23:35:23,"Pandora put the 3.2 libraries in their 3.0 SDK, weakly imported UIKit, and added a category to a 3.2-only class, crashing Pandora on 3.0. :("
+11415670916,2010-04-01 09:09:54,"In case anyone was wondering, every device (all 1.37 million of them) with an ""on file"" ECID now has a 3.1.3 SHSH saved in Cydia's database!"
+11415590360,2010-04-01 09:06:47,"@alfredolema @ronaldsb Yeah, it's rare. I actually have a new version of system-cmds in final testing to fix this (and problems @comex had)."
+11415406340,2010-04-01 09:00:11,"@IamTheFij There is an article on my website that explains how to create a ""trivial"" APT repository for Cydia. ;P http://www.saurik.com/id/7"
+11415332811,2010-04-01 08:57:26,"@keithrogers88 @ncartron The broken 74.0.0.0/8 route happened because the box got a bad network mask via DHCP, and has the IP 74.208.44.105."
+11415307921,2010-04-01 08:56:27,"@atikojaiku Yes; the account on my.opera.com's forum with the username ""saurik"" is me. That's a rather old thread you're reading, though. ;P"
+11415201086,2010-04-01 08:52:22,@MC_SE7EN Cydia has a feature where you can block any section you don't like. Just go to Sections and then click Edit in the upper right. ;P
+11220102543,2010-03-29 00:07:59,"Ouch. ;( The 500 errors you got today were a mistake in the default routing tables of my primary web servers, blocking 74.0.0.0/8. @shafnitz"
+11188884242,2010-03-28 10:15:37,"BigBoss has been doing in-depth tests of SBRotator, and sent some show stopping issues to the developer: I have no control over its release."
+11188849695,2010-03-28 10:14:08,"Yes: users who purchased new devices with 3.1.3 (and thereby can't use Cydia) can use Firmware Umbrella to register with ""on file"". @ctriviz"
+11139240517,2010-03-27 11:10:38,Again: the signature process has absolutely nothing to do with the version of the firmware you have installed (or claim you have installed).
+11137524159,2010-03-27 09:58:30,"To all on 3.1.3 SHSH: I've been requesting them non-stop since soon after 3.1.3 came out, and am on track for having everyone's within days."
+10968065653,2010-03-24 07:09:25,@Maxime95k Are you certain you aren't one of the many users who believe the SHSH's I save are related to the firmware you have installed? :(
+10967992118,2010-03-24 07:06:20,@Rene818 @s1aw0 Cydia 1.0.3044-66 had one tiny/silly change from -65 that only affected the bootstrap jailbreak packages; it was not pushed.
+10967655614,2010-03-24 06:52:54,"@tafseer If you only just recently put your ECID on file, then you will only have (currently, useless) 3.1.3 signatures available. @Mcanic2k"
+10967508561,2010-03-24 06:46:56,"@shellsmania Keyboard themes can't work on 3.x as the keyboard is now drawn with vectors. They are still up for the 100,000 users using 2.x."
+10967421669,2010-03-24 06:43:23,"@63LL1N65 Agree: Twitter is currently more exciting for Cydia than Facebook, but I'm going to be doing more with that other venue soon. ;P"
+10967321201,2010-03-24 06:39:24,"@mibaksh As it says on the Cydia login page, purchases are tied to logins, not phones. You can restore/replace your phone and just re-login."
+10967195164,2010-03-24 06:34:27,@EDmitry Seeing B&W colors means your terminal settings are incorrect. I assure you: the vim in the repository works (I code with it often).
+10967090245,2010-03-24 06:30:28,@Maxime95k ...and Cydia has previously claimed it had an SHSH for the version of the firmware you want? I can't imagine it would get lost...
+10966710097,2010-03-24 06:15:59,"I think today is the first time I haven't been ""on call"" for longer than a REM cycle in years: 5 hours watching a Big Bang Theory taping. ;P"
+10592426803,2010-03-16 23:09:51,"@_maz Signatures are generated by Apple's servers and are keyed by hashes on Cydia's servers; using ""fake"" 3.1.3 doesn't damage the process."
+10592365916,2010-03-16 23:08:22,"@IamSole There is an article on BigBoss's website about this issue, which is caused by having Rock on your phone (even if you don't use it)."
+10463958997,2010-03-14 09:43:38,"For those people out there who use both Cydia and Facebook, I have finally made an official Cydia fan page. ;P http://www.facebook.com/Cydia"
+10462710192,2010-03-14 08:39:30,"@itouchinjail Blocking sources is fundamentally impossible. Were I to try, pirates would just distribute the trivially hacked copy of Cydia."
+10414331203,2010-03-13 08:32:54,"@PeyloW By ""conversion rate"" I mean ""people who actually buy"" / ""people who read description""; most developers do not optimize descriptions."
+10396068643,2010-03-12 23:45:31,"@JailbreakNews Your icon is obviously not appropriate: you are not Cydia. It is confusing (even to me), and is only used to look ""official""."
+10394071738,2010-03-12 22:54:36,"@Iphone_mobb The default repositories have all been working with me for years now; each has thousands of packages, a good number not themes."
+10393651217,2010-03-12 22:43:33,@_Yllier_ Have you done any A/B testing to see if going directly to technical details (TCP & UDP) is actually good for your conversion rate?
+10393523507,2010-03-12 22:40:13,"@_Yllier_ (Well, @Openhebrew /removing/ piracy protection from one of his apps boosted his sales more than /we/ thought (I love the graph).)"
+10393148882,2010-03-12 22:30:28,"@Javs42 I pre-ordered an iPad today, and intend to have fun on it. Note: while I am ""on the dev team"", I am not key to the jailbreak itself."
+10392977745,2010-03-12 22:26:00,"@W44 ""Slashes are sometimes used to show italics, when no special formatting is available. Example: /Italic text/"" -- From: Wikipedia, Slash"
+10392698071,2010-03-12 22:18:37,"@shakeuk To be honest, that's the first time I've seen that specific sequence of events be described. That is definitely a bug: I'll fix it."
+10392636873,2010-03-12 22:17:00,"@Iphone_mobb While, /in theory/, I could see having a ""sponsored default repository"", /in practice/ I can't imagine I'd ever make that deal."
+10392425056,2010-03-12 22:11:21,"@SupaBrotha The ""argument"" against multi-tasking is that older devices (2G/3G) don't have enough memory to /reliably/ run more than one app."
+10391897030,2010-03-12 21:57:37,Too many developers are concerned with percentages / piracy instead of impressions * conversion rate (and assume descriptions don't matter).
+10391634154,2010-03-12 21:50:40,@staghill The usual deal in the Cydia Store is the Apple 30/70; Cydia handles all international sales/VAT taxes and all transaction fees. ;P
+10356896940,2010-03-12 04:37:48,@kinjutsu1 Sources that you manually add to Cydia must be removed with the UI: cydia.list is regenerated each time the managed list changes.
+10335035680,2010-03-11 18:57:39,"@jigishd No, I am definitely not the admin of Cydia.com, and am about to enter what seems like it is going to be a protracted fight over it."
+10334995015,2010-03-11 18:56:31,"@n00neimp0rtant If you are in charge of a system where you have constant editorial control, you are legally responsible if you get it wrong."
+10313351671,2010-03-11 08:17:17,"@TwittBite AFAIK, the irssi in Telesphoreo never worked: something wrong with glib/Darwin. Core had fixed it in his port, but lost the code."
+10312574536,2010-03-11 07:44:29,"David Whatley's talk today on the history of geoDefense (a game I really liked), complete with honest sales numbers (!), was really awesome."
+10312425508,2010-03-11 07:38:08,"@thejoelrios Right now, the simple process for Cydia Store sale is to submit your paid package using a default host (BigBoss, ModMyi, etc.)."
+10311991110,2010-03-11 07:20:03,"For those asking: ""C&D"" is ""cease and desist"". They were confuaing users with an ad landing page for iPhone content and won't sell the name."
+10311575351,2010-03-11 07:03:26,"OMG... finally able to C&D Cydia.com, and they put up an /Apple discussion forum/. Like /that/ doesn't violate my trademark? Lawyer time. :("
+10305268016,2010-03-11 03:45:40,"@psycko_com Hah! Was it about how staunchly anti-piracy I am, or how I think developers who spend time on DRM are short changing their apps?"
+10284877573,2010-03-10 19:21:13,"Double-tap-for-iPod-controls is a feature of Apple's AwayView, which you can put into rotation; it is not affected by Cydget. @MikesMiniBlog"
+10247613617,2010-03-10 01:08:42,"@Annonymous12579 So far, 100% of users who have had problems installing ""PogoPlank themes"" have been confused by PogoPlank being a paid app."
+10232405919,2010-03-09 18:36:43,"@johnhattan You win this round. The ngmoco:) talk was iffy, then I saw your tweet: VC++ 2010 C++0x support discussions are more interesting."
+10231022223,2010-03-09 17:59:23,@andrewserff No. The free Nexus One / GDC offer was for people who registered weeks ago for the T/W sessions: I just registered minutes ago.
+10230954874,2010-03-09 17:57:38,"@iphonejk The notice from the EFF only says they just got FOIA access to the document, not that the document changed: those clauses are old."
+10230741480,2010-03-09 17:52:07,"Managed to get to GDC just in time to register, return to my car to drop the giant pile of paper they hand you, and then get a good seat. ;P"
+10218327228,2010-03-09 12:27:39,"Last night, I discovered that the iPhone Games Summit (GDC) is Tue./Wed. (and not Mon., which I couldn't make), so I'm now rushing to S.F.."
+10000635765,2010-03-05 01:08:51,"@gross0982 MacCiti used to be a separate, third party repository. However, it has since merged with ZodTTD, one of the default repositories."
+10000573522,2010-03-05 01:07:22,"@rajivvarma I hire a couple amazing people (who wish to remain anonymous) to help answer tech questions, but the flood of mail is daunting."
+10000191256,2010-03-05 00:58:39,@hypernado It does: install the php package and then add #!/usr/bin/php-cgi to the top of the files. Most of @limneos' work are PHP Cydgets.
+10000112403,2010-03-05 00:56:47,"@p2pworldscouk I improved APT's cache generator (most of ""Reloading Data""). On my 3G[S], this dropped from 22s to just 2.2: 10x improvement."
+9999829999,2010-03-05 00:50:06,"@notcom Thanks for the report: that is fixed now. However, the only requests that were failing were ones I didn't have results for anyway..."
+9969547357,2010-03-04 11:32:25,"While I've given a zillion talks before (from speeches to lectures to workshops), #DayOfMobile is going to be my first keynote. I'm excited!"
+9969486585,2010-03-04 11:30:11,(I also uploaded a new version of APT I've been working on: it has an optimized cache generator and more error tolerant repository parsing.)
+9969161253,2010-03-04 11:17:28,Just uploaded version of Cydget (0.9.3141-1) supports cydget-cgi:///path/to/cgi/script to support some cool stuff being done by @limneos. ;P
+9299739262,2010-02-18 20:31:13,"If you've been stuck with a ""pending TSS request"" since 3.1.3 came out, it turns out I had your 3.1.3 hashes, but Cydia wasn't showing them."
+9171252709,2010-02-16 04:39:06,@_JJ_Z The queue stopped due to a temporary glitch; check in the morning. Your current OS version is irrelevant: you can't get 3.1.2 signed.
+9167547566,2010-02-16 02:59:59,"@SeB_or_Sam ModMyi already fixed their repository, as far as I could tell (although, I still don't understand how it got quite that broken)."
+9166497214,2010-02-16 02:32:06,"@Gianchi83 I feel like @leonardhofstadt's iPhone /should/ be jailbroken! ;P Haven't had time to watch much of Season 3, but I love the show."
+9166334612,2010-02-16 02:27:54,"@tomerb Even if you haven't upgraded your 3G[S] to 3.1.3, Apple no longer lets us restore 3.1.2: you'd need a signature on file from before."
+9165363276,2010-02-16 02:02:09,"@chr1spy Temporarily, you can just use the server with iTunes/Cysts/Umbrella to see if you have a TSS response for the firmware you request."
+9164356851,2010-02-16 01:35:11,"@gtanuel Yeah, I don't know what universe @jack_mannino lives in where he seriously expected any different response than the one I sent him."
+9151949402,2010-02-15 19:05:55,To anyone having problems refreshing Cydia: ModMyi's Packages.bz2 file is actually a... partial .deb file... they will be fixing it soon. ;P
+9116617662,2010-02-14 23:29:55,"@63LL1N65 You can save 3.1.3 on my server by just upgrading using my server; but it sounds like you want 3.1.2, which is no longer possible."
+9116407608,2010-02-14 23:23:10,"@davidlyness To guarantee X.Y.Z is saved, use my server as a proxy for iTunes/Cysts/Umbrella; automatic saving prioritized for jailbreaking."
+9115766427,2010-02-14 23:03:17,@OrigamiTech I do not and can not have repositories list Store items: developers and artists must contact me directly for tax/legal reasons.
+9115689984,2010-02-14 23:01:01,"@aschaper For 2/3rds of the market, comments should appear within 8 hours; no comment should take longer than 24. What is your package name?"
+9115526118,2010-02-14 22:55:59,"@iMuggle iSpazio was not previously set up to sell things via the Cydia Store, but should be soon, after which any default repository works."
+9028220472,2010-02-12 22:17:43,"@Gluca78 @rprather @Colufc If you are pending, you probably missed the 3.1.2 window and are in a (long) queue for (maybe useless) 3.1.3 TSS."
+9028137337,2010-02-12 22:15:21,@twodotone http://tinyurl.com/cystspy = a TSS client. Simple uses need only host the XML file as /TSS/controller for iTunes to recognize it.
+9026613653,2010-02-12 21:32:02,@reanimationxp Firmwares for the newer devices are verified on the device... I don't see why you think hacking iTunes would change anything.
+9026585219,2010-02-12 21:31:13,"@benking1 I frankly don't see why anyone would use Xcode for anything once they have enough experience with ""normal"" Unix development tools."
+9026531524,2010-02-12 21:29:46,"@AriX If used normally (from iTunes via hosts), I save all data proxied from Apple. Prophylactic update ramdisks need too many TSS requests."
+9026288695,2010-02-12 21:22:48,"To all poking me about iBlueNova: they just got me tax paperwork night before last, their DRM server isn't done yet... I'm not the block. ;P"
+9021671816,2010-02-12 19:11:04,"Upcoming talks: keynote at DayOfMobile, general session at 360|iDev. Hopefully I won't have to run a 4 hour session with pneumonia again ;P."
+9021326178,2010-02-12 19:01:27,"Cydia's ""ECID on-file"", what may be the largest scale (public) MITM-attack ever (&gt;1m devices), now stores nearly-live point-in-time backups."
+8870290081,2010-02-09 20:51:39,Cyrket now supports the Windows Marketplace for Mobile. The most expensive app is yet another I Am Rich alike. http://tinyurl.com/fortunatus
+8869543905,2010-02-09 20:30:24,"Spent most of the evening yesterday working on the Cydia ""on file"" ECID/TSS storage server: the backup regimen is now ""super super awesome""."
+8852674638,2010-02-09 12:37:45,"@MuscleNerd @she5fl If a 3G[S] jailbreak'r on 3.0.1 opted in to Cydia's ECID ""on file"" program a long while ago, then 3.1.2 should be saved."
+8765163842,2010-02-07 14:04:55,@ronaldsb 3.1.3 SHSH's would allow restoring 3.1.3 after 3.1.4/3.2's out: future jailbreaks /should/ need just any (old/exploitable) SHSH's.
+8764853550,2010-02-07 13:54:09,@bondtkt I will start hashing 3.1.3 as soon as I finish coding a priority list for people who currently have no hashes on file (tomorrow?).
+8764793295,2010-02-07 13:51:58,@sarahl4jvld4 I am not certain what feature you are referring to (lower left?). Can you send me a screenshot of Cydia showing these circles?
+8764748571,2010-02-07 13:50:20,"@os2power Cyrket shows comments in all locales at once (and has a ""translate"" feature): language communities are not ""different markets"". ;P"
+8716090384,2010-02-06 09:00:05,@ConstantineXVI Cyrket's QR codes are no longer market: URLs because packages with long names required *ENORMOUS* QR codes to scan reliably.
+8642589292,2010-02-04 18:31:42,"Cyrket.com now has comment translation (English only still) via Google AJAX API: click the language flag (yes: stupid, temporary interface)."
+8625209705,2010-02-04 08:51:45,"(If anyone had trouble using an ""on file"" SHSH from Cydia's TSS server today, please try again: I am in the middle of a database migration.)"
+8625159821,2010-02-04 08:49:18,"Apple's TSS server stopped signing 3.1.2 today, so if Cydia does not state that you have 3.1.2 SHSH's on file yet you are now ""too late"". :("
+8371455461,2010-01-29 15:22:24,"@The_Spirit @brushless Cyrket 2.0's inability to sort by release date has some complexities, but I should be able to fix that near soon-ish."
+8369195864,2010-01-29 14:21:32,"@meggerud Cyrket doesn't actually have a ""newest apps"" feature anymore: it used to (and will again). What do you mean when you say ""as new""?"
+8366071940,2010-01-29 12:44:04,@trevorcobb Anything good in the syslog? Maybe some evil extension is missing a .plist and is causing some background task to keep bouncing.
+8365744034,2010-01-29 12:32:21,"@suspect22 Correct: Cyrket is for all my Android (and now any webOS with the new website release) followers, not the iPhone/Cydia coalition."
+8365426227,2010-01-29 12:20:51,"@bluehazed I actually went with Sinatra temporarily over Ruby on Rails, as @wycats sold me on Rails 3 and @heroku only supports 2 right now."
+8365317034,2010-01-29 12:16:49,"Cyrket lets you browse the Android Market with a web browser. It can now support multiple markets, such as the Palm App Catalog.  @ideal2545"
+8365241146,2010-01-29 12:14:01,"Thanks! Cyrket is now able to pull much more data from caches, and has been rewritten to run on @heroku, which has been /amazing/. @DrJeckyl"
+8365113999,2010-01-29 12:09:07,"@Imnotanerd Yes. The various pictures of me with my violin were taken during a wedding, by a good friend of mine (the brother of the bride)."
+8342921602,2010-01-28 23:20:11,"About a week ago, it finally hit me: how to run a ~reasonably~ live Cyrket without being rate limited by Google. A week of no sleep later..."
+8301370975,2010-01-28 00:28:06,@methias_laan I had to get a Sprint account last year to get a Palm Pre (even at full price you had to have some kind of account to buy it).
+8301257230,2010-01-28 00:24:41,"So, after an hour of arguing with Sprint, they are actually going to be sending /me/ a check for $6. At least I got this iPad SDK extracted."
+8298875052,2010-01-27 23:15:08,"Sprint is a phishing scam: I paid an enormous cancellation fee, cancelled all of my accounts, and now they still think I owe them something."
+8290784043,2010-01-27 19:27:33,"I find the future that Apple is helping usher in--an era of closed computing, with all software controlled by the manufacturer--horrific. :("
+8290234380,2010-01-27 19:13:47,"Watching live tweets regarding the iPad is hilarious: Apple announces $9.99 per iWorks app, and many people heard it as $999 for the tablet."
+8289645291,2010-01-27 18:56:59,"Ok, /finally/ a reason to get this device: the ""iBook Store"" Apple just announced is the first feature that has made the iPad seem valuable."
+8288264359,2010-01-27 18:14:47,Wow. The iPad is a comically large iPhone... The Onion could seriously have put together this keynote last month and have gotten it correct.
+8288044637,2010-01-27 18:08:23,I've been primarily using tablets for 16 years (since that Compaq Concerto): it is therefore really hard for me to not be excited right now.
+8287824850,2010-01-27 18:01:22,"@Mxrage If it is a scam, I'm also being scammed :(. I gave the Haiti donate theme special payment modes so I don't make any money off of it."
+7945564693,2010-01-19 13:43:08,"Released 0.9.3108-1 of PrivaCy, as I got permission from Medialets to disable their ads (not all ads ;P) in Pandora (so no more dialog box)."
+7942732044,2010-01-19 11:56:02,Palm: you cannot rely on the client to enforce anonymity :(. model.formattedCreator = (model.isAnonymous ? $L('Anonymous') : model.creator);
+7787272358,2010-01-15 13:27:58,"While I agree with @Gruber that ""first doesn't matter"", for the record, Microsoft had Windows 3.11 ""for Pen"" on the Compaq Concerto in 1992."
+7743696035,2010-01-14 10:35:50,@ClaytonBraasch Charging for Cydia itself would be like Apple charging you to use their App Store: I can't imagine that ever making sense...
+7743671890,2010-01-14 10:34:30,@johnrlive Amazon's API is epic: just retry the purchase and Cydia will finish the partial transaction; only one user ever got billed twice.
+7743616021,2010-01-14 10:31:21,"@_moberts Sadly, the $1+ PayPal currency conversions that plague users still exists, but that $0.25 overhead that users didn't mind is gone."
+7733914862,2010-01-14 03:16:24,"Finally found a guy at PayPal with up-to-date information on micropayments, and apparently they now handle cross-border transactions sanely."
+7505506444,2010-01-08 04:01:41,CNBC just ran an hour long special on the App Store /that I was in/ and they carefully avoided even /implying/ that jailbreaking existed. :(
+7499553588,2010-01-08 01:08:18,"@Framy The Java packages I have in Cydia are for developers, not for users: there is currently no Java ME stack ported to the iPhone, AFAIK."
+7499356915,2010-01-08 01:02:21,@NickFrey @Youngbrammer That feature is so important that it has actually been implemented for over a year now: click Sections then Edit. ;P
+7499220927,2010-01-08 00:58:18,@xi212 You should send me an e-mail on questions like that. Twitter is not an appropriate mechanism to announce or discuss anything complex.
+7498848745,2010-01-08 00:46:39,"@alnandr In fact, your comment that Apple doesn't donate anything isn't even accurate: check via Google search. http://tinyurl.com/apldonate"
+7498696897,2010-01-08 00:41:56,"@alnandr That is a low blow and an outright lie: SaurikIT was one of the sponsors of the EFF Pioneer Awards, among other less public things."
+7498572392,2010-01-08 00:38:05,"@creatorz Send me an e-mail (preferably including the word ""refund""). If possible, please include your Amazon/PayPal transaction identifier."
+7498471465,2010-01-08 00:34:55,@eraser_org I am not in control of 99.999% of the ads in Cydia. What repository are those flying ads are in? I can go try to kick their ass.
+6993289056,2009-12-24 07:42:28,"@allorente Ok, that's the first totally legit reason I've seen so far for Cycorder-on-the-3G[S]: save battery recording with the screen off."
+6992258261,2009-12-24 06:43:19,"@allorente I'm curious, as I get questions about Cycorder on the 3G[S] a lot: why do you want to use Cycorder instead of Apple's Camera app?"
+6991922058,2009-12-24 06:27:47,(App Store camcorders take rapid screenshots of a camera preview; Cycorder directly accesses the camera and compresses using hardware JPEG.)
+6991805188,2009-12-24 06:23:01,What makes Cycorder better than the current App Store video recorders is also what makes it /still/ not allowed in the App Store. ;( @Keyaku
+6991780578,2009-12-24 06:22:02,"@Oberstmueller I have not figured out what to do about Weather yet, but everything else in Element works. I am working on optimizing it now."
+6991735692,2009-12-24 06:20:15,"@hotrod1964 I actually own @cydia: that actually is an official account. I haven't gotten around to doing anything awesome with it, however."
+6945355948,2009-12-22 23:21:20,"@SpikeyNDS You can use payments.amazon.com to see your remaining authorization amount; but it's only a ""limit"": it isn't really a ""balance""."
+6491131933,2009-12-09 08:26:46,"@GeekSumit APT's ""DiffIndex"" feature can let Cydia only download source updates. I'm working on getting all the large repositories on board."
+6491080295,2009-12-09 08:22:04,"@JoeBetsill I actually have some code in the official Android tree; not much, though: code reviews were taking forever (multiple months ;P)."
+6491046792,2009-12-09 08:19:11,@bluhauss Have you returned your device 6-7 times just recently? ;( I redid the algorithms last week to account for using replacing phones.
+6490938475,2009-12-09 08:09:45,"@Martin_Silenus I like that idea (remembering what Cydget you are on), but think it should be an option (I prefer knowing where I start to)."
+6490923185,2009-12-09 08:08:25,"@limneos Yes: the WebCycript cydget will soon allow you to run external programs like php to generate content, so you can drop lighttpd. ;P"
+6490893186,2009-12-09 08:05:58,@geomazo No. Thanks to random people calling me about small issues I no longer answer my phone at all unless I know the number: just e-mail.
+6490862310,2009-12-09 08:03:28,@eds66stang One of your repositories is broken. Only install sources you trust. ;( I have been working on making APT more resilient to this.
+6490815807,2009-12-09 08:00:10,@Bababooey13 Keyboard themes weren't a special separate feature of WinterBoard: that they are no longer possible is due to Apple changes. :(
+6490792852,2009-12-09 07:58:28,"@TheTechReviewer Cydia is the only installer actually using ""APT"", which is why it doesn't have the installation bugs that plague Icy/Rock."
+6437652738,2009-12-07 18:14:13,"@limneos Dial with Cycript: [SBTTYPromptAlert dialNumberPromptingIfNecessary:""+18885551234"" addressBookUID:-1 urlAddition:""wasLockAlert=1""];"
+6436906310,2009-12-07 17:45:10,(The general idea is that text/cycript provides a bridge from HTML/JavaScript into C/Objective-C. Past that you are just in webapp land. ;P)
+6436864188,2009-12-07 17:43:31,"After unlocking you can launch an app with [[[SBIconModel sharedInstance] iconForDisplayIdentifier:""com.apple.mobiletimer""] launch];. @_muhu"
+6436835817,2009-12-07 17:42:23,You can cause an unlock event using  [[SBAwayController sharedAwayController] unlockWithSound:NO]; in a text/cycript script block. @limneos
+6375821733,2009-12-05 18:28:37,"@OrigamiTech HelloCycript should work, but you need the most recent build of Cycript from cycript.org/debs: the Cydia copy was Cydgets-only."
+6375044385,2009-12-05 17:56:37,"@ablogwriter The (New) image in Cydia is pulled, at runtime, out of UIKit, using a special in-Cydia URL (so it will theme with WinterBoard)."
+6373929462,2009-12-05 17:10:19,(This is completely random): I love how they modified the Palm Pres used in Flash Forward (a TV Show) to have a /giant/ Sprint logo on them.
+6373356103,2009-12-05 16:46:31,Anyone else find this calm before the storm somewhat unsettling? iPhone OS 3.1.2 came out /two months ago/. I'm expecting 3.2 to be brutal.
+6373271830,2009-12-05 16:42:58,"@etantum I doubt they actually took the report; and, if they did, I doubt they actually care (especially as the user /did/ get a refund ;P)."
+6373222749,2009-12-05 16:40:56,@johhenrik I did search my spam/trash (I destroy nothing) for that guy's alleged e-mail. ;P (Non-payment/refund support issues get triaged.)
+6372539606,2009-12-05 16:12:33,"A user says he asked for a refund (don't know who he asked, but it wasn't me), didn't get it (from who?), and that he filed a police report."
+6371933626,2009-12-05 15:46:43,"@Carrboned Huh. I search in inbox occasionally to prioritize that request. Regardless, I redid the mechanism a few days ago: just try again."
+6346788917,2009-12-04 19:32:43,"@ga_sa Just like in the App Store, you can re-download your previous purchases by tapping Purchase/Buy and logging in with the same account."
+6346674086,2009-12-04 19:28:24,"@mikehindman That typically means ""you are trying to run Cycorder on a 3G[S]"". Why do you want Cycorder, given that Camera can record video?"
+6346443631,2009-12-04 19:19:35,It's even worse: many users don't even want the thing fixed anymore; even if the error is on their end they just get super angry. @tsteele93
+6346221285,2009-12-04 19:11:10,@patelhiren I completely rewrote the algorithm for handling device linking limits yesterday morning to be more intelligent. Maybe try again?
+6346081368,2009-12-04 19:05:53,@zato1chi I managed to get delayed horribly on @teehan's Element design due to a lot of work that had to be done to handle increased demand.
+6345981916,2009-12-04 19:02:15,"I really hate having to deal with the customers who are all like ""I got some error, I didn't read it, and now I want you to fix it A S A P""."
+6295524089,2009-12-03 05:55:28,Cydia's SHSH on file mechanism involves asking Apple's server for hashes. It has nothing to do with the firmware you have installed. @evanjd
+6291677866,2009-12-03 03:16:31,"Yesterday, I finished upgrading the in-Cydia SHSH on file firmware display: it will now show the full list of on file firmwares.  @darkhourz"
+6291530659,2009-12-03 03:11:16,"I'm doing /lots/ of scaling work (sharding, MongoDB), and apparently I had broken ""device link"" for new users this weekend. :( @VincentCento"
+5985697085,2009-11-23 19:53:51,I can't wait to get back from Germany so I can finish my database migrations; I just spent $50 in roaming Edge mitigating an I/O bottleneck.
+5944315659,2009-11-22 11:58:59,I love how the entire city of Worms (Germany) is shut down for the holiday; I'm not used to that in the US ;P. http://tinyurl.com/wormspread
+5854387320,2009-11-19 10:41:30,"I've been doing major performance work on Cycript. HTML Cydgets w/ Objective-C now ""pop"" w/ 0.9.288-1 (tomorrow, or cycript.org). @teehanlax"
+5854242599,2009-11-19 10:30:47,"@m_kaswell Unfortunately, I am pretty certain the Apple coverflow mechanism isn't capable of rendering correctly transparent with wallpaper."
+5854203461,2009-11-19 10:27:55,"@Joolz Yeah, I've tried Google Closure. In ""Advanced"" mode it tends to damage most tricky JavaScript. Cycript also does optimizations, btw."
+5854172962,2009-11-19 10:25:37,@Jonnyclash If you can't find Cydget under Settings then you probably have disabled the PreferenceLoader. Don't do that: it is important. ;P
+5778893244,2009-11-16 23:07:05,@OrigamiTech There were some changes/bugs in the public release of Cycript that broke HelloCycript. Supported Cycript examples next release!
+5763381295,2009-11-16 12:12:27,Cycript's compiler now compresses jQuery 6-7% smaller than YUI! ;P I need to work on bridge performance now for a new/better Cydget release.
+5698164093,2009-11-14 02:07:23,"Yes: the home button switches Cydgets. You configure the order of rotation under Settings, and you can make the normal AwayView first. @t87"
+5698106545,2009-11-14 02:04:49,"@zodttd Actually, Plaszma did not seem awesome: at first I thought they had broken Android. I think the UI is still being worked on, though."
+5698037177,2009-11-14 02:01:43,@Yahweh_PT The developer of Lock Calendar is going to be releasing a new version soon to fix those issues (it is going to become a Cydget).
+5697776651,2009-11-14 01:49:47,"@naduka I just checked, and you are wrong: blackra1n is, in fact, listed on the ""Upgrading to 3.1.2"" page in Cydia, and has for a long time."
+5697585990,2009-11-14 01:40:36,"@pavelb Oh, wow: that is a very good way of looking at that problem. I will make it work that way (or something quite similar) next release!"
+5697505652,2009-11-14 01:36:27,"@zodttd My Zii Egg did arrive. I failed to realize it was booting into Plaszma at the time, was very confused, and put off looking at it. ;P"
+5697459789,2009-11-14 01:33:59,@Itsugawakun Interesting. I am working with ZodTTD on how to handle Cydgets that need networking better. Can you e-mail me your test case?
+5697385546,2009-11-14 01:30:01,"@xandermac I found your email, and it was a bug on your end anyway: echecks take a week to clear. I avoid messing with ""in flight"" payments."
+5697128927,2009-11-14 01:15:38,@scirica The PhotoExample.cydget (a lame demo I threw together for developers) requires Cycript. That will be clarified in the next release.
+5697057537,2009-11-14 01:12:00,@OMGsus @xandermac Yeah. :( Some users simply insist on a response /right this second/. Seriously... you can't wait a few days over $2? Sad.
+5663447559,2009-11-12 23:32:20,"On TSS queues: Cydia doesn't show it yet (due to database split), but my server is now ""caught up"", with 3.1.2 SHSH for /all/ on-file users."
+5663373449,2009-11-12 23:29:39,Staying up all night last night (too long) to rework my database server seems to have paid off in Cydia's internal web performance today. ;P
+5629746070,2009-11-11 21:24:48,"Wow, that last server blip was a ""Jay is an idiot"" mistake: I restarted nginx on my load balancer, and apparently it stopped and flopped. :("
+5612514077,2009-11-11 06:43:18,"@dreemkill And @trevorcobb saw the opposite. More likely: actual battery life did not change, but rebooting the phone reset the calibration."
+5611963602,2009-11-11 06:07:24,"Yeah: most people don't have issues. The problem is actually quite rare: very little sad e-mail, but complaints are noticed. @JoeMSantangelo"
+5611809341,2009-11-11 05:58:05,"There's some extension out there that is fatally incompatible with the new MS, but all anyone says is ""I upgraded MS and fail"". Not helpful."
+5602931265,2009-11-10 23:26:58,"@wardrich No, SmartScreen is not currently available, but there are YouTube videos available from @wizdaz (the developer) showing it off. ;P"
+5601107399,2009-11-10 22:16:55,"No. Cydget is not ""better"" than SmartScreen: Cydget lives one level up from SmartScreen. In an ideal world, SS would /be/ a Cydget. @LGSilva"
+5601041335,2009-11-10 22:14:22,"Correct. CyDialer, for example, would not make sense inside SS's manager. I'm actually looking forward to playing with SmartScreen. @Popple3"
+5600995888,2009-11-10 22:12:36,SmartScreen manages non-interactive widgets. Cydget /only/ rotates full screen interactive ones. I want SS on my Cydget rotation. @moneysh15
+5600275608,2009-11-10 21:44:36,"Actually, Cydget doesn't compete with SmartScreen. SmartScreen really is a Cydget. CyDialer would not work as a SmartScreen widget. @Popple3"
+5585297138,2009-11-10 10:10:39,"@limneos I haven't yet coded support for the WebCycript loader to call out to PHP to generate the HTML document, but that is coming soon. ;P"
+5584090886,2009-11-10 08:30:18,The third segment in my version numbers is the Subversion revision of the release. Some of my projects also share repositories. @radiogaurav
+5583467238,2009-11-10 07:40:35,"MS 0.9.3087 has a new CommCenter SafeMode in case there are any broken extensions out there using 0.9.3072's ""more processes"" ability badly."
+5581427324,2009-11-10 05:29:43,"@vAzCaPiTo That iTunes corrupted box problem also occurred with a previous MS on 3.0b5, but no one here can reproduce it on 3.1.2. Rebooted?"
+5580967635,2009-11-10 05:05:57,"I actually wanted Cydia to enforce changing passwords over a year ago, and I got massively frowned at by the user community. :( @stevenorris"
+5580932678,2009-11-10 05:04:13,@vmenu I don't know why you believe Cyrket is offline due to server load. Hardware is cheap: SaurikIT has more than enough funding for that.
+5580894108,2009-11-10 05:02:22,"The changelog for MobileSubstrate is always ""hooks more processes and functions due to complex new ARM instruction relocators"". ;P @iSurenix"
+5565141475,2009-11-09 18:24:16,@ibluetooth You should avoid coding extensions that are tightly coupled to a single firmware as it will just immediately break next upgrade.
+5556262265,2009-11-09 11:15:13,"@Fafossj If LockInfo is constructed in a manner that makes it compatible with other SBAwayViewPlugins, like VoiceRecorder, it probably will."
+5556244302,2009-11-09 11:13:54,@DarkMalloc @ibluetooth 4-5% are on 2.2. The /real/ advantage of striving for 2/3 compatibility is that you tend to write more stable hacks.
+5556185692,2009-11-09 11:09:30,Cydget is a framework for writing lock screens. I am helping @gteehan on an actual product to be released very soon based on it. ;P @scirica
+5556154591,2009-11-09 11:07:04,@Logicwax As soon as I finish this Cydget+Cycript release I am going to go through and organize/handle all of the queued Cydia support mail.
+5556132283,2009-11-09 11:05:22,"I had hoped to get Cydget released today/yesterday, but a last minute crash bug was found, and now I'm so tired I have a headache. @iSurenix"
+5556111451,2009-11-09 11:03:51,"@amiuhle @aydakocak Google and I are, hopefully, working out something regarding keeping Cyrket running, but no one can promise anything. :("
+5530263186,2009-11-08 11:46:52,"Ouch: ""tomorrow-ish"" is turning into ""almost three days later"". Lots of final release work today; including testing on 2.2, which I support."
+5477247700,2009-11-06 12:33:01,I /finally/ managed to write an HTML lockscreen (which renders much faster than I anticipated) with Cycript. Exciting release tomorrow-ish.
+5386167046,2009-11-03 07:09:04,"Fair enough: if you send a Direct Message w/ SMS, and that SMS gets broken into multiple parts, then the last part will get posted publicly."
+5250271160,2009-10-29 03:45:20,"Palm was saying ""open"" a lot, but not one Palm employee came to the ""webOS and the Open Source Community"" breakout session at #sprintdev. ;("
+5186299830,2009-10-26 23:28:35,"Very reasonable HTC response when asked why no Hero UI for G1/myTouch: those are ""Google experience"" devices and HTC is required to respect."
+5186170240,2009-10-26 23:23:32,"""Yes, you'll see products with that CPU next year"" -- HTC Developer (when asked about Android on Qualcomm's 1GHz Snapdragon CPUs) #sprintdev"
+5185125561,2009-10-26 22:41:46,"HTC is apparently launching a /giant/ marketing campaign on the 29th. ""We're going to have more media coverage than /Coca Cola/."" #sprintdev"
+5183783823,2009-10-26 21:46:28,"While developers will distribute apps, unreviewed, using Palm's App Catalog, the interface on the device will be more of a showcase. @jamild"
+5183722526,2009-10-26 21:43:56,"(Otherwise, Palm's ""use webOS"" talks have been boring: very little isn't done just as well with offline, full-screen MobileSafari web apps.)"
+5183445267,2009-10-26 21:32:21,(At Sprint ADP 2009) Palm is going to officially allow feed access to what will be an /unfiltered/ App Catalog when they launch in December.
+5181725547,2009-10-26 20:18:23,"@K25125 You can already link to files in other WinterBoard themes with normal symbolic links; in fact, the ""User Wallpaper"" theme uses that."
+5181067177,2009-10-26 19:48:35,"@CMorrigu @androidandme Thanks for the note! Not enough of my friends use Cyrket, so I tend to not notice such problems for a day or two. :("
+5088305383,2009-10-23 03:34:15,Reid (co-founder of LinkedIn)'s argument was that Settlers is the game he's found that most closely models entrepreneurship. @charlesjbarry
+5088234742,2009-10-23 03:31:21,@Gojohnnyboi Just wait until you see the HTML console integration for it. You're also going to see Cycript in non-Objective-C contexts soon.
+5088078160,2009-10-23 03:23:55,"@nevyn Cycript is very similar to JSTalk (aka. JSCocoa, which is what I called the two projects on my site), but has a few different goals."
+5088013324,2009-10-23 03:20:46,"@alexandre786 ""Host Unreachable"" typically means ""have some patience"". BigBoss had a server down for half a day a few days ago that you hit."
+5087959675,2009-10-23 03:18:13,Respring on exit isn't safe. Cydia actually used to do this and I got burned by some corner cases involving incoming phone calls. @mohabitar
+5087882314,2009-10-23 03:14:35,@josepenajr Yup! ;P @teehanlax's layout is coming to life partly due to Cycript (which was both delayed and improved due to my being sick).
+5087773506,2009-10-23 03:09:22,Veency has supported password login for a month now: you set the password under Settings. Did you turn off PreferenceLoader? :( @mattguyear
+5087711802,2009-10-23 03:06:27,Reid Hoffman is now talking about Settlers of Catan at the EFF Pioneer Awards. (SaurikIT is a sponsor! http://www.eff.org/awards/pioneer ;P)
+5087313680,2009-10-23 02:48:59,"@mfredrick Someone is actually working on an extension that sorts icons by usage. I don't remember who it was, but it was somebody good. ;P"
+4953332687,2009-10-17 23:03:02,"(While I'm still coughing a bit, I'm finally better. I thought I was better last week, but then stressed myself out, so I waited this time.)"
+4953118769,2009-10-17 22:52:01,"So, when sick, I tend to work on things that require lots of typing, but no stress or intellectual ""oomph"". Witness: http://www.cycript.org/"
+4953062729,2009-10-17 22:49:11,"I don't know what it is with people: first CydiaStore.com, now Cydia.us. Why don't I just get Apple.cy? You can't call your website ""Cydia""."
+4953045905,2009-10-17 22:48:19,@DistortedLoop Correct: Apple is still signing 3.1. Apple continued to sign 3.0 until 3.1 came out. Likely 3.1 will stop when 3.2 comes out.
+4953028639,2009-10-17 22:47:29,@monkey3203 That problem typically occurs when users try to use PwnageTool to upgrade packages. I highly disrecommend using that feature. :(
+4637933531,2009-10-05 21:18:15,"I do not work directly on the jailbreak programs, nor do I know anything regarding the release schedules of such applications. ;P @don_eddie"
+4637905276,2009-10-05 21:16:58,"@bradpirman (No one should have ""3.0.1"" as their lowest version on file: everyone should have 3.0, 3.1, or 3.1.1 (for the craazy new iPod).)"
+4637876996,2009-10-05 21:15:44,@bradpirman Interesting. Cydia reports specifically for the RestoreRamDisk SHSH (which is unique per firmware). Each firmware has 17 SHSH's.
+4637662005,2009-10-05 21:05:51,"@notcom Ok, awesome. I'd never heard of either of these tools (iReb or Umbrella) and am just responding to the flood of ""save my SHSH"" mail."
+4637609869,2009-10-05 21:03:36,"@w1kedZ Theoretically, purplera1ny files are enough to downgrade; but, someone (not me) would have to rewrite iTunes or redsn0w to use them."
+4637535310,2009-10-05 21:00:25,"If Cydia says you have a 3.0 ECID SHSH on file, then you also have a 3.1 ECID SHSH on file: it shows the lowest version. @arileouf @Ale_1983"
+4637322878,2009-10-05 20:50:55,@macdotnub Ok. Then you should tell @notcom that /he/ should be using cydia.saurik.com instead of gs.apple.com to do these signature hashes.
+4615309846,2009-10-05 00:05:51,@hpro210 Changes to hosts should be done as described on my website. Using cydia.saurik.com/TSS directly is only usable for tools like iReb.
+4615288053,2009-10-05 00:04:52,@Weechard It is both my experience and understanding (from support e-mail) that WinterBoard never had bad (even any?) problems on 3.1 3G[S].
+4615152715,2009-10-04 23:58:46,@iH8sn0w You can send me a request for 3.0(.1) the same way you normally send one for 3.1 (but using the 3.0(.1) BuildManifest information).
+4615105067,2009-10-04 23:56:29,"@TheiHelpTeam The themes I most often run on my phones are Monochrome-Agua (claims to not be 3.0 compatible, but mostly works) and Classica."
+4615070471,2009-10-04 23:54:49,"@Lobocalifas I will be able to do another round of finding and answering ""too many devices linked"" support e-mail a little later tonight. ;P"
+4615018312,2009-10-04 23:52:18,"@iH8sn0w Awesome, thanks! ;P Maybe you would also consider adding a feature to let users download their 3.0(.1) SHSH that I may have stored?"
+4614997627,2009-10-04 23:51:20,"@x_rus_x The iPod Touch 2G can be jailbroken to 3.1 from an already pwned 3.0 using PwnageTool. Note that Cydia's showing yellow, not green."
+4614437607,2009-10-04 23:25:06,@iH8sn0w If you have iReb use cydia.saurik.com instead of gs.apple.com I pass through the request to Apple's server and cache the result. ;P
+4613985759,2009-10-04 23:04:10,"It's a shame that iReb, from @iH8sn0w, is using Apple's server instead of mine. I really can't be accepting SHSH files by e-mail to save. :("
+4597604985,2009-10-04 06:05:12,Finally feeling better today! (Antibiotic killed off the pneumonia!) Cyntact's crashing on 3.1 3G[S] is fixed with MobileSubstrate 0.9.3051.
+4447920213,2009-09-28 17:34:04,"Despite having spent half of my day-long tutorial at urgent care (starting pneumonia), my talk still went great! http://tinyurl.com/iapidtca"
+4129141825,2009-09-20 19:08:02,"Yes: Cydia is only showing the signature mechanism for iPhone2,1 (the 3G[S]) and iPod3,1 (the ""craazy new"" iPod, larger size). @CiSillusions"
+4128760211,2009-09-20 18:48:02,Apparently BigBoss' repository has been offline for a while this morning. We are all hoping it will be online again very soon. ;P @steve1215
+4128661429,2009-09-20 18:42:51,Correct: having a 3.1 ECID SHSH on file will not directly help you until Apple releases 3.2 (or 3.1.2) and discontinues signing 3.1. @rafeed
+4128629555,2009-09-20 18:41:09,"@TheConfusedone1 I do not ban users from my ""blog"". Different ""donate"" links in Cydia go to different developers. You are mixing them up. :("
+4119978980,2009-09-20 07:22:12,"Users of the new ""iPod3,1"" should also start using the new signature server as Apple is doing the same downgrade prevention for that device!"
+4119959362,2009-09-20 07:20:11,"Yes: users who have 3.0 signatures ""on file"" are already queued (or already completed from before) to get 3.1 signatures saved. ;P @ronaldsb"
+4119935824,2009-09-20 07:17:49,"The idea of the just released feature is that 3G[S] users of Cydia, running 3.0 (or 3.0.1), can have their 3.1 signatures saved. ;P @Tzi_tzi"
+4119919232,2009-09-20 07:16:08,@sjonjon Non-jailbroken users can register themselves with the signature cache system by doing a restore with the server set in their hosts.
+4119899828,2009-09-20 07:14:12,"@itswulfy Unless you got signatures stored before 3.1 was released, you will not be able to downgrade, or even just do a restore, to 3.0. :("
+4117025468,2009-09-20 03:43:51,"The should-have-been-ready-five-days-ago ""ask Cydia to sign 3G[S] 3.1"" feature is online, with all the required flexibility and scalability."
+4084663064,2009-09-18 18:23:39,"On panel discussion right now w/ the director of Mobile Application and Partners from T-Mobile, as well as someone from Cisco and Handmark."
+4050928405,2009-09-17 09:39:45,"The Apple Store employees both today and yesterday seemed to think I was nuts when I wanted to buy an ""iPod3,1"": they hadn't heard of it. ;P"
+4045114457,2009-09-17 02:31:31,"@NovaTornado I find that almost all reports of massive memory usage are due to misunderstanding in how to use top, involving VSIZE vs RPRVT."
+4045008350,2009-09-17 02:26:33,"@natcl Yes, I learned today that Python needs a fix due to a symbol removed in 3.1. (I have that on my todo list after the SHSH server.) ;)"
+4044949617,2009-09-17 02:23:47,"@NA9D Unlike the App Store (where developers have no incentive to improve their software), Cydia Store packages can charge for big upgrades."
+4043728519,2009-09-17 01:27:57,@j0hnsblog Zoink?! I worked until 4:30AM last night to make certain MobileSubtrate would fix extensions on 3.1 and I get this response? Sad.
+4043692316,2009-09-17 01:26:17,"@psywzrd Example delays: 3.1 PwnageTool got released (causing WB/MS work), SHSH server work to support iPod3,1, and MobileSafari changes. ;("
+4043536443,2009-09-17 01:19:14,"MobileSafari on iPhone OS 3.1 now honors height=""0"" on an iframe; but, all other heights still get its usual, quirky, auto-sizing algorithm."
+4027470514,2009-09-16 11:48:55,"(The Cydia internal website should be fine now, the two gigantic ""alter table add column not null default"" statements finally completed.) :("
+4027454087,2009-09-16 11:47:36,@machater81 I already announced a new version of MobileSubstrate that fixes issues with WinterBoard. I am running a 3.1 3G themed right now.
+4027289632,2009-09-16 11:34:17,"(The Cydia website is down for an hour or so due to extreme database load caused by a change I am making to the SHSH schema for iPod3,1.) :("
+4026438292,2009-09-16 10:16:21,"MobileSubstrate 0.9.3043-1 fixes the issues some extensions (like WinterBoard) are having with the new dyld ""shared cache"" in iPhone OS 3.1."
+3994900500,2009-09-15 01:58:25,"@ClaytonMacleod Yes, just editing your hosts file and doing a restore will register you. Tonight I will also be adding the UI back to Cydia."
+3994501244,2009-09-15 01:40:27,"@ClaytonMacleod There's currently no known process to get you to a jailbroken device running 3.1. It sounds like there will be soon, though."
+3992779056,2009-09-15 00:26:35,"It's done! Hopefully, this new article on my site will answer any and all questions regarding ECID SHSH storage. http://www.saurik.com/id/12"
+3976991263,2009-09-14 09:20:58,"@nlra If you mean you saved the personalized iBSS and iBEC files, then that isn't enough data to have an easy iTunes 3.0 restore process. :("
+3976946146,2009-09-14 09:15:57,"My new SHSH cache database requires me to import all the old data, which is taking long enough that I'm going to sleep. So, one more day. :("
+3952892676,2009-09-13 10:59:06,"@MrWalkman However, note that you cannot even restore to 3.0 (in case something goes wrong) using iTunes without this ""downgrade"" procedure."
+3952878623,2009-09-13 10:57:21,"@0th3lo No one has ever reported that issue to me. The ETA on fixes for bugs I don't know about is ""never"". Send me an e-mail with a report."
+3952843077,2009-09-13 10:53:02,"@MrWalkman You are preaching to the choir, my friend: people /should not/ be upgrading. The fact that users /did/, however, makes it useful."
+3952438380,2009-09-13 10:04:42,"Cydia's ""on file"" feature stores more data than any of the previous solutions (like purplera1n.com), so as to allow downgrades using iTunes."
+3952417868,2009-09-13 10:02:15,"Given that the rumored 3.1 exploit sounds to be working out, 3.1 signatures will be valuable. ;P Will start saving 3.1 ECID SHSH's tomorrow."
+3952391436,2009-09-13 09:59:26,"So, I finally nailed a 3.1 to 3.0 3G[S] downgrade using ""on file"" ECID SHSHs. :) Will have more complete instructions for doing it tomorrow."
+3952371633,2009-09-13 09:57:03,@creedless Hardly anything you hear wastes battery actually does. OpenSSH isn't running as a daemon and thereby isn't even using any memory.
+3927409097,2009-09-12 03:43:19,"@frankie_hf I like living in California, but in Santa Barbara I miss ""weather"". It rains once every couple years here, for maybe a few days."
+3923596746,2009-09-12 00:37:30,@myhorns CyDialer is not yet released. The product you purchased that IntelliScreen broke was Cyntact. I'll also be replacing IntelliScreen.
+3923565270,2009-09-12 00:35:51,"@fireball0093 When a repository provides corrupted updates, APT gets angry. As you've seen, Cydia can now recover when the problem is fixed."
+3921056510,2009-09-11 22:19:49,"Not certain who all will be in Denver at 360|iDev, but I'm going to be giving a day long, end-to-end tutorial on MobileSubstrate extensions."
+3909970749,2009-09-11 12:27:44,"@NikiTsvetkov If you think it's nice now, just wait till you see the seamless zoom transition that occurs when you click on the contacts. ;P"
+3909839838,2009-09-11 12:17:33,"Today I needed to work on something else... /anything else/... than ECIDs. ;P So, I dusted off my old CyDialer! http://tinyurl.com/cydialpng"
+3897852762,2009-09-10 22:34:52,Downgrading to 3.0 is interesting because we do not yet have a jailbreak for 3.1-3G[S]. This may change. http://tinyurl.com/cdt31gs @btaroli
+3897793467,2009-09-10 22:31:52,"When 3.1 came out yesterday, Apple stopped signing 3.0. Even if you use iTunes, you should not be able to restore a 3G[S] to 3.0. @g35holdem"
+3897750472,2009-09-10 22:29:44,"The iPhone 2G and 3G are ""pwned"": while the tools need to be updated the technique is sound: ECID SHSH verification doesn't matter. ;P @eKap"
+3897709783,2009-09-10 22:27:37,"If you are have a 3G[S] with 3.0, you can jailbreak with redsn0w; but, if anything ever fails, you will be forced to upgrade to 3.1. @3demir"
+3897605498,2009-09-10 22:22:17,The 3G[S] ECID SHSH's are on my server and I will be providing simple instructions for how to use them with iTunes to downgrade to 3.0 soon.
+3882437855,2009-09-10 06:24:30,"Ok, Apple stopped allowing people to downgrade their 3G[S] to 3.0 earlier today (which means I can no longer signature hashes for users). :("
+3867688699,2009-09-09 17:44:32,Apple always talks raw numbers while comparing apples to oranges. You can't just count $30 PSP & DS games against $1 iPhone games by volume.
+3867015258,2009-09-09 17:04:59,"@NotTooClever The bootloader is your last line of defense against broken software, and Apple keeps removing safety features to limit choice."
+3863916495,2009-09-09 14:24:12,@McMike79 My end-game on the 3G[S] is for people to change /etc/hosts to have iTunes use my server instead of Apple's when restoring to 3.0.
+3862738990,2009-09-09 13:14:12,"(The thing that depresses me most is that despite Apple being evil and their software being limited, their competitors aren't doing better.)"
+3862685755,2009-09-09 13:10:48,The shear number of man-hours that have globally been destroyed because of Apple's insistence on evil engineering practices depresses me. :(
+3754128803,2009-09-04 10:10:12,"@Pjack (Regardless, all of the issues I and my techie friends have had with Sprint are all billing related, not technical support problems.)"
+3754077957,2009-09-04 10:05:04,"@Pjack Even if you could help me, I'd feel it very inappropriate that I only receive competent help from Sprint /after/ I complain publicly."
+3716228618,2009-09-02 18:42:22,"I have multiple cellular accounts with every major carrier (hazard of the job), and Sprint is the only one that is seriously incompetent. :("
+3697856425,2009-09-01 22:02:27,@yartpb You should look into autossh (I have a port of it for iPhoneOS in Telesphoreo). It's a daemon that maintains an outgoing SSH tunnel.
+3664106179,2009-08-31 11:55:08,Finally added a Settings bundle to Veency (for password support). Was much harder than it should have been (had to argue with libvncserver).
+3573773660,2009-08-27 05:33:23,Having a good dentist is absolutely essential: some sage advice from my mother. I feel incredibly lucky to have found mine (Dr. McClintock).
+3460236171,2009-08-21 22:46:13,@tattooturkish PrivaCy carefully cuts out the tracking library code without affecting other features (such as Location) of the applications.
+3448237346,2009-08-21 11:54:05,PrivaCy (global tracking opt-out) is now available in Cydia! More details can be found on its package details page. http://tinyurl.com/prvcy
+3419898376,2009-08-20 03:15:43,"I have spent the last day and a half working with Pinch Media, Medialets, MobClix, and Flurry on a ""global opt-out"": should be out tomorrow!"
+3360506388,2009-08-17 12:15:38,I spend WAY more time every day answering incoming e-mail than writing code. :( I need to figure out how to scale to more support engineers.
+3305564955,2009-08-14 10:50:13,I just spent way too many hours pulling apart the 3.x keyboard code. There isn't enough legacy support to theme keyboards anymore. Sorry. :(
+3120585149,2009-08-04 07:20:27,Touche! Amazon Payments used to require a US billing address on non-US credit card purchases. Now that's only needed for Amazon Checkout. ;P
+3120465004,2009-08-04 07:08:17,"Looking forward to PayPal ""Adaptive Payments"": they seem to have realized helping developers is important. http://preview.tinyurl.com/ppalap"
+3120409571,2009-08-04 07:02:37,PayPal was offline for much longer than the 2h that was often reported. When it /did/ come back online the bad data was thankfully fixed. ;P
+3111918255,2009-08-03 21:44:02,"Amazon, please, I beg of you: start accepting international purchases on Amazon Payments. PayPal is an expensive blight on online retailing."
+3111884887,2009-08-03 21:41:57,Wow: PayPal = /Utter Fail/. :( Their API actually gave me transaction identifiers that they now claim don't exist. http://tinyurl.com/ppfail
+3068341291,2009-08-01 10:17:43,Finally! The FCC is stepping in and is demanding details on Apple's iPhone App Store approval process! Take that! http://tinyurl.com/fccagv
+2915628883,2009-07-29 19:50:29,Wow... VoiceCentral and GV Mobile were in the App Store for months before Apple decided to pull them. http://tinyurl.com/vcaas @riverturninc
+2909747500,2009-07-29 13:55:56,"Personally, I do not believe that AT&T got GV Mobile pulled from the App Store: AOL's AIM does free SMS, and Google Voice does not use VoIP."
+2909576387,2009-07-29 13:43:51,"Apparently, PgBouncer 1.3 has a bug where connections will just lock up (fixed in 1.3.1). I have been running gdb on Apache to isolate this."
+2909558827,2009-07-29 13:42:33,"I do not need bandwidth, nor do I need more servers. Offers of hosting are not helpful. I mostly am running into bugs in software I'm using."
+2795386271,2009-07-23 09:03:26,This so angered me I had to pull over to the side of the road to complain about it here: Why isn't the 3GS compass visible IN THE MAPS APP?!
+2747613349,2009-07-20 23:20:29,This simple kernel upgrade has been /revolutionary/ for the performance of my main Cydia database server. Even Cyrket is much faster now! ;P
+2745746025,2009-07-20 21:21:15,"I really need to just spend all day tomorrow leveling up my server infrastructure... regardless, a kernel upgrade just now has done wonders."
+2710893514,2009-07-18 20:10:21,"VoIPover3G 1.1 (3GS tested) just came out! 3G Unrestrictor (same author) can also hook YouTube/iTunes/AppStore, and has a configuration GUI."
+2609170990,2009-07-13 04:26:34,To anyone calling nlist() (such as VoIPover3G): be certain to check n_desc for N_ARM_THUMB_DEF. Use WinterBoard's new nlset() as an example.
+2598692403,2009-07-12 14:07:50,"Finally got Veency on 3.x (3GS tested), fixed a serious bug in Cyntact (now with Favorites support), and handled some Five Icon Dock issues."
+2577080683,2009-07-11 01:20:15,Finally finished isolating Cydia from slow/offline developer's payment servers (and made some further database query optimizations as well).
+2556232572,2009-07-09 20:33:01,Painfully slow Cydia experience today due to me not considering what happens if an end developer's Cydia Store API server starts timing out.
+2512804761,2009-07-07 11:50:18,"If Cydia asks you to upgrade WinterBoard, you should. Regardless, you can read the changelog: I fixed a few 3.x bugs. ;P @soiramk @tatb4urot"
+2512682292,2009-07-07 11:35:20,The newly released 0.9.2958 versions of MobileSubstrate and WinterBoard (upgraded to support ARM7/Thumb2) should now work on the iPhone 3GS.
+2453198853,2009-07-03 12:41:53,"The code signature related errors you are seeing with PurpleRa1n are a different, unrelated, problem with its kernel patches. :( @Itaintrite"
+2453115173,2009-07-03 12:33:03,"ADDITIONALLY, WinterBoard /will/ need work on the 3GS (new instructions), but I can't even begin looking at that until we get fixed patches."
+2452951414,2009-07-03 12:14:58,The PurpleRa1n 3GS jailbreak (like the unofficial 3.0 beta QuickPwn jailbreaks) is missing critical patches required for WinterBoard (etc.).
+2280095799,2009-06-22 15:24:11,"Apple added JavaScript debugging support in 3.0. Cydia (apparently) had this feature turned on, by accident. :( Cydia is much faster now. ;P"
+2268094503,2009-06-21 18:14:16,"@zhangchn No. ""tangelo-3.7"" is a ""distribution"", and is the correct one. ""cydia-3.7/"" is a folder, and would have entirely different syntax."
+2263116367,2009-06-21 06:59:50,"@DoGudSnd Interesting... did you also use AptBackup? WinterBoard has a few bugs on 3.0, but mostly works and has already been updated twice."
+2262936519,2009-06-21 06:34:04,"@pandakrat If those don't work, you'll likely never see the upgrade. Did you use AptBackup? I think AptBackup 1.1-6a had a catastrophic bug."
+2262311415,2009-06-21 05:16:08,@HaraTaiki You seem to be using the older repository somehow. 2.6.32-5 is from the tangelo distribution: 3.x is still forked to tangelo-3.7.
+2262057221,2009-06-21 04:48:43,"MobileSubstrate 0.9.2941-1 (just released) solves the ""MobileSubstrate kills iTunes Store"" issue that many users have been reporting on 3.0."
+2257631956,2009-06-20 21:38:44,Awesome! The aforementioned link to a graph of the sudden demand is apparently not online in all areas. ;P It will likely stop 404'ing soon.
+2257545522,2009-06-20 21:30:28,"The rush for 3.x has been a /little/ more than I anticipated. ;P. http://tinyurl.com/3xcybw Please, have patience with site malfunctions. :("
+2247705285,2009-06-20 02:30:00,"@alt_23 Python is fundamentally ""open-source""... ;P the iPhone-Python demo's source code is on your device in /Applications/HelloPython.app."
+2247692469,2009-06-20 02:28:48,"@4JustinB For some reason, launchctl sometimes fail to load launchd .plists on 3.x, which will make Cydia to fail to restart SpringBoard. :("
+2247535725,2009-06-20 02:14:36,"I'm not certain why that /crashed/, but I've now fixed the dependencies for Python and also fixed the iPhone-Python PyObjC demo. @mattyb1994"
+2246584515,2009-06-20 00:49:08,"@ITJedi42 It sounds like something bad happened when you jailbroke. Re-jailbreak, and make certain to install Cydia from the jailbreak tool."
+2246454670,2009-06-20 00:37:12,@ITJedi42 Then you are likely using the older 2.x version of Five Icon Dock. Verify that the version you installed with Cydia is 0.9.2924-1.
+2244082467,2009-06-19 21:16:43,"@tonhe No. I just re-tested WinterBoard with wallpapers, and they work fine on 3.0. I think there may be an issue with transparency, though."
+2244061241,2009-06-19 21:15:06,"@writeinmovement Those arn't ""progress"" indicators: they indicate that that app is running in the background, and are added by Backgrounder."
+2243854894,2009-06-19 20:59:22,"Cydia Store purchases are associated with your Cydia account (authenticated with Facebook/Google), not to your specific device. ;P @shinsaki"
+2243784783,2009-06-19 20:53:51,Frowny... some internal pages were losing their user agents. :( I have fixed this in Cydia 1.0.2938-56. I just pushed that out. @highchecker
+2243282881,2009-06-19 20:15:10,"@lidoro2004 It is my understanding that SwirlyMMS is not supposed to be installable on 3.0, as it causes that behavior. I'll check with Ste."
+2243216165,2009-06-19 20:10:08,"Yes, Five Icon Dock works fine on 3.0. I also upgraded it to use newer MobileSubstrate features, like ""only load into SpringBoard"". @oskarki"
+2243070916,2009-06-19 19:59:23,"@mikkinilsen Video recording is considered a feature of the iPhone 3GS, not the 3.0 firmware. People may succeed in backporting the feature."
+2243055796,2009-06-19 19:58:14,"@fiddlerelf AWESOME! I'll add DCIM support very soon, then. I'm /very/ excited to not get any more ""how do I get my videos"" support e-mails!"
+2243016454,2009-06-19 19:55:14,"Yes, Cyntact works on 3.0. Previous owners should be able to install it (and other Cydia Store packages) without paying again. @briankenwell"
+2241790720,2009-06-19 18:23:01,"Cycorder works on 3.0. It has a glitch in the video list table, but the video preview is now full-speed, /even when showing an ad/. @aranmor"
+2241386019,2009-06-19 17:53:16,"Veency is not quite ready on 3.0 (I'm working on that this weekend). You can see the screen, but touchscreen events need work. @Alan_Vazquez"
+2240983709,2009-06-19 17:24:03,"@sjalih No: Cycorder records at the maximum speed of the 2G/3G camera. If it ever gets to run on a 3GS, it will probably record at 30fps. ;P"
+2231378243,2009-06-19 01:27:42,Yay! Palm Open Source is going to release a fixed/complete WebCore patch. They seem very on top of issues like these (unlike Apple: frowny).
+2228872016,2009-06-18 21:59:43,"The WinterBoard you'll see in Cydia on 3.0 works. Expect some bugs, however, as the delay on that kernel patch set back testing. :( @madcowz"
+2228795202,2009-06-18 21:53:47,I am not in charge of the release schedule for the jailbreak. You should keep watching http://blog.iphone-dev.org/ and @iphone_dev. @Popple3
+2228747712,2009-06-18 21:50:09,"Palm's Open Source website went live today; but, their WebCore patches are incomplete (missing new files... they need to add -N to diff). :("
+2228735332,2009-06-18 21:49:12,"Cydia works fine on 3.x (especially with the update I pushed yesterday), but the jailbreak isn't quite out yet. (Will be soon.) @DuCshizness"
+2228715332,2009-06-18 21:47:40,"@pkNRG You can also filter on categories, which sounds like what you want. Go to Sections, click Edit, and turn off, for example, Themes. :P"
+2147793827,2009-06-13 00:22:49,"@PolishDemon Yes, my (minimal) 2.x MobileFinder port is open source, but I had nowhere ""normalish"" to check it in. http://tinyurl.com/mf2xsc"
+2112488787,2009-06-11 03:25:45,"Yeah. I just drove two hours to pick up a Pre, and Sprint couldn't reactivate my account for four hours (by which time they closed). @mxweas"
+2112461503,2009-06-11 03:23:13,"@him121213 The Contacts application was not accessible on  iPhoneOS 1.x with an iPhone: iPod Touch only. Hence, why 1.x is a key limitation."
+2101193381,2009-06-10 08:43:19,"@apere006 The keypad that is available from a call is different from the normal one: it directly sends DTMF and does not have ""add contact""."
+2099987801,2009-06-10 05:31:10,"@djhewetson When adding the number after the call, you can always dial the number to save it to your call history. The ""during"" part is key."
+2099925777,2009-06-10 05:23:10,"I'm quite sad that the Apple person by the stage misinformed me that the event was ending in ""4 minutes"" when there were 34 minutes left. ;("
+2099886378,2009-06-10 05:18:12,"@SpokenRain As the question is going to Apple engineers, the answer ""jailbreak your phone"" is acceptable, but out of scope. ;P I mean stock."
+2099852036,2009-06-10 05:13:55,"@CompC Yep, and you can't edit contacts while in a phone call using the Phone application. @mxweas helped me for the ""on iPhoneOS 1.x"" part."
+2099788984,2009-06-10 05:06:16,"@fiddlerelf Yeah, I'm definitely going to try that. Anything to lower the number of questions I get of the form ""how do I get my videos"". ;P"
+2099773878,2009-06-10 05:04:28,"My (too late) ""Stump the Expert"" question: on stock iPhoneOS 1.x, how can you add a phone number to an existing contact during a phone call?"
+2098714288,2009-06-10 03:20:24,@seanichol No: the framerate is a hardware limitation related to light sensitivity and how rapidly it can read and clear the camera sensors.
+2098449214,2009-06-10 02:56:41,@seanichol @kmkld I think @Sakurina's idea is simply that people will be less likely to use a third-party video recorder when Apple has one.
+2095855097,2009-06-09 23:06:31,"iPhone Lab. Yesterday, I was told to return today as ""no one I know would know the answer to that question"". I overslept, though. @lordmatty"
+2095833415,2009-06-09 23:04:36,"As in the questions are all simple: cannot login to ADC, trying to use 3.x-only libraries on 2.2.1, problems with Objective-C.... @lordmatty"
+2095802716,2009-06-09 23:01:51,"I might not be able to help, but I'm the one guy here with a ThinkPad. Feel free to come ask me questions instead: I'm open. @carlosmcevilly"
+2095517447,2009-06-09 22:35:59,"I'm sitting in the iPhone Lab, surrounded by Apple engineers. I feel for them: I'm mostly hearing entry-level tech support going on nearby."
+2095441442,2009-06-09 22:29:18,@fiddlerelf Neither the iPhone Camera software nor the client side synchronization mechanisms account for video filed in DCIM. Maybe on 3.x?
+2084476751,2009-06-09 02:13:24,"Going to dinner with @mxweas at the ""New Dehli Restaurant"" near Moscone. iPhone Labs engineers kept telling me to try my questions tomorrow."
+2082834266,2009-06-08 23:34:54,I just got how awesome the iPhone 3GS name is: we used to have an Apple IIGS at my elementary school. The phrasing had felt quite familiar.
+2082290307,2009-06-08 22:42:45,"The rest of WWDC (everything but the keynote) is seriously marked ""Confidential Information"", so I can't go into more specifics while here."
+2080473742,2009-06-08 20:01:56,@ironiridis The issue is that different carriers have different contract terms and prices for getting subsidized hardware. Not quite simple.
+2079749820,2009-06-08 19:02:48,"I hate how prices on devices like this are always quoted at their drastically lower ""with a phone contract"" values; makes comparison harder."
+2079709230,2009-06-08 19:00:01,(I keep missing little things as I think through and type commentary: the video recording speed is apparently 30fps. The demo was /smooth/.)
+2079649784,2009-06-08 18:55:31,I really want to know what the framerate is on this new camera. The iPhone 2G/3G's camera was only 6-15 fps (depending on light conditions).
+2079625546,2009-06-08 18:53:43,"The new iPhone 3GS camera is /awesome/. (Although, the N95 has a /5 megapixel/ auto-focussing camera /with flash/ and a Carl Zeiss lens. ;P)"
+2079574464,2009-06-08 18:50:02,"iPhone 3GS: ""This is the fastest, most powerful /iPhone/, we've ever made."" (I liked the lack of comparison to their competitors' specs. ;P)"
+2079511779,2009-06-08 18:45:33,"Finally, an announcement: iPhoneOS 3.0 will come out June 17th, but developers can get the final build today via Apple Developer Connection."
+2079483682,2009-06-08 18:43:30,I wonder if companies whose demos fail on stage are executed by Apple after the event. ;P The main speaker just apologized for the glitches.
+2079312373,2009-06-08 18:29:25,@mxweas Definitely. Send me a text message (my phone number is on my website's upper-right corner); will be good to see someone I know here.
+2079273190,2009-06-08 18:26:12,RT @ericasadun Today's keynote brought to you by the Apple Department of Redundancy Department. Nothing big to announce so March is on rerun
+2079160143,2009-06-08 18:16:50,"(As everyone is pointing out to me, I had missed the lack of AT&T from the list of tethering carriers that caused the ""confusing"" laughter.)"
+2079103351,2009-06-08 18:12:10,Fair enough. @engadget is probably in the main room. The room I'm in is just dead: the people who needed a little more sleep. ;P @ironiridis
+2078996937,2009-06-08 18:04:02,"I'm having a difficult time understanding the crowd. ""Next: Safari"" got laughter(?...) from the audience. New JavaScript engine sounds good!"
+2078933463,2009-06-08 17:59:19,"I'm /in the audience/, although in the ""overflow room""... people here sadder? (Ok, there /was/ a laugh here as I typed this.) @adamkozlowski"
+2078815685,2009-06-08 17:49:48,I swear this #WWDC keynote is using canned laughter/applause. I don't hear anyone in the audience clapping... it is all coming via speakers.
+2078242719,2009-06-08 17:04:20,"I had Apple reprint my badge with ""SaurikIT, LLC"" in addition to ""The Okori Group"". No one ever seems to notice, but I like seeing it there."
+2078201952,2009-06-08 17:01:05,"@piratxmac Cydia does not run any daemons. You could install some, but they'd be unrelated to Cydia. The ""installerd"" daemon is from RiPDev."
+2078080056,2009-06-08 16:50:56,"@QuickPWN Cydia already runs on 3.x, I have a fixed 5-icon dock, and MS/WB is waiting on a final QuickPWN. Nothing much to ""announce"" today."
+2078044126,2009-06-08 16:47:48,"@Jedized But how good advertising is a pack I'm never going to use? ;P Looking ahead of me in line, most people are wearing non-Apple packs."
+2077934568,2009-06-08 16:38:15,I don't understand why any conferences think it is useful to hand out low-quality backpacks as gifts. Don't people bring a good one with?
+2077875405,2009-06-08 16:33:04,"@rgarver Are you at WWDC, btw? ;P I'm standing in the giant giant line for the keynote (which seems to be one of the only things on Mobday)."
+2077866184,2009-06-08 16:32:14,"@Lvxvria If you believe being a hacker is about ""releas[ing] warez"", we obviously have nothing more to talk about. Please do not pirate ;(."
+2077852924,2009-06-08 16:31:03,"@Lvxvria ""Installer"" did not invent jailbreaking and Cycorder was the first recorder to natively access the camera (IVR recently caught up)."
+2062271209,2009-06-07 05:46:19,"That I will never be able to fix the typo of ""Castilleja"" as ""Catilleja"" in my earlier post cuts deep into my obsessive compulsive soul. ;("
+2062130134,2009-06-07 05:24:38,"@wewps Interesting. AFAIK, dpkg holds work fine with Cydia. It will still be under ""changes"", but it won't install it during an Upgrade All."
+2062111956,2009-06-07 05:21:54,@salaman Providing case-insensitivity for icon files with WinterBoard would be expensive on either access or startup. I try to keep it fast.
+2062048807,2009-06-07 05:12:38,"@kukkiduchess Cydia Store products are marked blue and are purchased in Cydia. For others, you need to complain to the description authors."
+2061996623,2009-06-07 05:05:15,"Cyrket is currently US-listings-only, but I am almost don implementing region-switching support: probably will finish soon after WWDC. @qbex"
+2061934511,2009-06-07 04:56:58,"@tvegko As far as I know, an official  fully working release of QuickPwn from the iPhone Dev Team will be released /after/ 3.x is released."
+2061923411,2009-06-07 04:55:24,@fahimzahid I don't think that will be on YouTube. :( I watched it in person (my girlfriend's little sister just graduated from Castilleja).
+2058691677,2009-06-06 22:26:32,Just finished watching the commencement address by Marissa Mayer (Google employee #20) at Catilleja: that was incredibly inspirational. ;P
+1953868090,2009-05-29 00:32:42,"Spent the last hour on the top floor of Moscone (at Google I/O) running an inpromptu ""lecture"" on flashing & rooting our new Google Ions. ;P"
+1952762383,2009-05-28 22:41:57,@apere006 Thanks! I had not seen that yet (kennytm hadn't mentioned he was working on that). I've asked him if I can use his implementation.
+1946613503,2009-05-28 12:32:12,Just wasted way too much time getting this URL back after letting it slip through my fingers earlier tonight. http://tinyurl.com/ioncrb28-43
+1940117959,2009-05-27 21:58:19,"Comparing the G2 with the G1 is like night and day, at least to an iPhone user: small, sleek, solid... just plain ""reasonable"". @ender666666"
+1940025643,2009-05-27 21:46:22,"They gave us a T-Mobile 30-day unlimited(?) domestic+data SIM for the phones they gave us (yeah, HTC Magic, ""Google I/O"" brand). @disconn3ct"
+1939430066,2009-05-27 20:34:49,Even the /giant/ iPhone sign isn't attracting any attention at a conference that just gave /everyone/ an Android G2 w/SIM (/and/ a t-shirt).
+1939409687,2009-05-27 20:32:09,"@labaom93 Please take a screenshot of that happening. It definitely shouldn't be warning, and I would have expected more than one complaint."
+1939076994,2009-05-27 19:51:35,"@MacFlagg Regardless, in the current beta version of Cydia (3.x is testing) I drastically sped that step up, optimizing from APT's cache up."
+1939064252,2009-05-27 19:49:50,"@MacFlagg ""Reloading Data"" simply provides a progress HUD for a step that was already there; it even got faster the version I added that. ;P"
+1938998226,2009-05-27 19:40:56,"@raulhenriquez Again :(, MobileSubstrate is ARM code, but requires a /jailbreak fix/ (a kernel patch) to operate that hacked QuickPwns lack."
+1929210731,2009-05-26 23:09:17,"One more meeting today and then off to the Bay Area for Google I/O (where I will probably be spending a lot of time sitting around, coding)."
+1929162381,2009-05-26 23:04:15,"@labaom93 ?!? I definitely do not. In fact, in the current beta repository, RiPDev is a ""sanctioned"" source, installable using a package. ;P"
+1929141090,2009-05-26 23:02:01,"@i420_X Install the ""APT 0.7"" package. :( That's a slight misorganization I have yet to fix in the beta package set I have available on 3.x."
+1928427207,2009-05-26 21:49:06,@ROI3ERT YouTube's PCM decoder doesn't parse any of the formats I could easily generate: you will need to reencode videos on your computer.
+1928196463,2009-05-26 21:26:17,"No, you will not have to repurchase: your Cyduia Store payments are tied to your Facebook/Google account, not your current device. @DIRTBAG1"
+1871121638,2009-05-21 14:06:30,@jcalado Again: not unless you have a jailbreak that supports the vm_map patch. WinterBoard needs special support from the jailbreak itself.
+1871114820,2009-05-21 14:05:47,@anilparmar A) Try the Beta Cydia on 3.x (it is much much faster to load). B) The iTunes Store is almost entirely remote (no local catalog).
+1870967144,2009-05-21 13:49:37,"@stroughtonsmith Except for a few in the last couple weeks, all of my messages are replies designed to be taken out of context (as support)."
+1870870476,2009-05-21 13:38:34,"As I've said a few times before, WinterBoard on 3.x can't work until the jailbreaks have the vm_map patch. @evancarmen @Axiol @geeksupernova"
+1870850398,2009-05-21 13:36:12,I agree. :( I really wish packagers and developers alike spent more time/effort on the description pages for their packages. @TheStickMonkey
+1870836309,2009-05-21 13:34:34,"@stroughtonsmith Apparently you missed the entire ""#fixreplies"" drama. A Google search will help quite a bit ;P. http://www.saurik.com/id/11"
+1870782036,2009-05-21 13:28:15,The largest WinterBoard 3.x bug was wallpapers not working. Here is a fixed copy (assuming vm_map patch). http://tinyurl.com/wb3xwp @misjosh
+1870767901,2009-05-21 13:26:32,I've only spent about an hour and a half looking at it so far as I don't think any such jailbreak has actually been released yet... @misjosh
+1870693665,2009-05-21 13:17:36,"Huh? I do not write descriptions for any packages you see that are not ""from Cydia/Telesphoreo"", nor do I have control over them. @CosiBella"
+1831964735,2009-05-18 02:52:22,"Apparently, the pro/con arguments in the ballot pamphlet were collected during a single business day; no wonder they are all so low quality."
+1831938219,2009-05-18 02:49:15,"Am at Katie's ""proposition party"", team-researching the proposed laws being voted on during this Tuesday's ""Special Election"" in California."
+1799110471,2009-05-14 21:16:04,"WinterBoard on 3.x needs one more kernel patch from the jailbreaks, and a few hours from me to verify there are no 3.x-only bugs. @Florinioo"
+1792686937,2009-05-14 06:54:50,"Thousands of people are using Cydia on 3.x: a couple 3.0b5 jailbreaks come with it. ;P Still, more work to be done, though. @JonathanDumaine"
+1786677707,2009-05-13 17:50:49,"Ok, I got a bunch of copies of the NYT ;P. Finally off to get some sleep before my guest lecture tonight at the College of Creative Studies."
+1784009308,2009-05-13 12:58:52,@DouweM Frowny. I have no clue how that could be stuck. One idea: verify /System/Library/LaunchDaemons/com.saurik.afpd.dns-sd.plist is gone?
+1783963589,2009-05-13 12:52:34,"@DouweM To verify, you mean holding down that button until it says ""slide to power off"" and then sliding? ;P (Not just putting it to sleep?)"
+1783880542,2009-05-13 12:40:52,"If Netatalk seems ""stuck on"" try rebooting. In general, rebooting is a strong ""first line of defense"" ;P. http://tinyurl.com/carjoke @DouweM"
+1783844021,2009-05-13 12:35:30,Cydia was mentioned in the New York Times today! Am now trying to figure out how to get a copy in Santa Barbara. http://tinyurl.com/cydianyt
+1783588650,2009-05-13 11:54:15,@karinagw You are completely ignoring the part where I'm advocating that this be even /more/ configurable than it was before (per-followee).
+1783553571,2009-05-13 11:48:06,"Exactly! Instead of removing settings, they (Facebook & Twitter) need to be putting more in. http://www.saurik.com/id/11 @tpward #fixreplies"
+1783488475,2009-05-13 11:36:32,@AdriXSeah I have never heard of that problem. Are you using any extensions (such as CyDelete) that might affect how the little x's operate?
+1783480867,2009-05-13 11:35:08,"@karinagw Given that we /don't/ have per-followee options, I think the sender is in a better position to determine the value of the content."
+1783478502,2009-05-13 11:34:42,@karinagw You are over-simplifying the problem: interactions are more complex. The previous setting was global: it needs to be per-followee.
+1783425118,2009-05-13 11:24:37,"@karinagw As an example: yesterday I wouldn't have been able to reply to you, as ~10,000 followers don't need to get pushed this discussion."
+1783415620,2009-05-13 11:22:46,"@karinagw People using ""workarounds"" to purposefully decide ""this is an @reply worth seeing"" vs. ""this one is less useful"" is more flexible."
+1783221722,2009-05-13 10:43:10,"@karinagw (Purposely @replied ;P.) Thanks! I added an inset to clarify the issue with clients, which I think strengthens ""more flexibility""."
+1782642797,2009-05-13 08:27:40,"People seem to be liking my article (http://www.saurik.com/id/11), so I submitted it to Digg (http://tinyurl.com/ttcdigg). Digg? #fixreplies"
+1782532718,2009-05-13 08:01:19,"Yes, a per-user setting would #fixreplies in a much better way, and is exactly what I argue for in http://www.saurik.com/id/11 ;P. @noahk17"
+1782430533,2009-05-13 07:38:00,"In fact, I will go further and say that I think this new Twitter ""update"" provides more flexibility. http://www.saurik.com/id/11 #fixreplies"
+1782423631,2009-05-13 07:36:25,"Personally, I think the ""tail call"" is a cleaner way to #fixreplies than prefixes like ""re"" or ""so"". http://www.saurik.com/id/11 @MuscleNerd"
+1782093651,2009-05-13 06:26:57,"WinterBoard is actually ready for 3.x, but the hacked copies of QuickPwn still have a little vm_protect() kernel patch work to do. @TekkDave"
+1780058367,2009-05-13 02:01:04,"@boioglu I know relatively little of the particulars of using the jailbreak tools, and semi-exclusively use QuickPwn on Windows these days."
+1778746747,2009-05-12 23:33:58,"@danudey It never used 13MB: the RSIZE goes up due to temporary maps and caches, but that won't affect usable RAM. http://tinyurl.com/wblmem"
+1778631539,2009-05-12 23:20:24,"@stroughtonsmith WinterBoard only uses ~1.8MB, even when applying a nice theme. The WinterBoard memory witch hunt is old news at this point."
+1757984110,2009-05-10 22:44:50,"@littlesteve The patch which is required for WinterBoard (and many other things) is ""vm_map"". I have a very simple test case if you want it."
+1757764259,2009-05-10 22:12:26,"@apere006 Ok, I looked into it, and WinterBoard Lite's developer did misinterpret the memory usage. My analysis: http://tinyurl.com/wblmem ."
+1757331247,2009-05-10 21:10:11,@apere006 I hadn't seen WinterBoard Lite. The developer seems to be measuring memory usage incorrectly and is optimizing the wrong variable.
+1757300501,2009-05-10 21:05:44,"For the record, AFAIK WinterBoard is already 3.x compatible but the hacked jailbreak's kernel patches aren't sufficient to make it function."
+1736248719,2009-05-08 10:02:57,"The Jesusita Fire County Call Center had to be evacuated today. :( The fire has jumped west over a highway, and is inching closer to Goleta."
+1731952176,2009-05-07 23:00:14,Status update on 3.x: I finished a Cydia QuickPwn bundle and have been on making the 'Backwards Compatibility' extension fix other packages.
+1731601169,2009-05-07 22:18:00,I can't believe that Sleepers is whining that I delisted their repository because they were hosting cracked apps. Let me be clear: NO WAREZ.
+1723206560,2009-05-07 02:19:00,Half of the people I had lunch with today are now under evacuation notice. :(  I believe my guest lectures are delayed until next Wednesday.
+1721919432,2009-05-06 23:48:32,"As is irritatingly usual, my city is on fire... power is generally offline and cellular networks are clogged. http://iscaliforniaonfire.com/"
+1624069876,2009-04-26 22:55:39,"I really need to figure out how I occasionally manage to use over 10GB of total memory (8GB RAM, 2GB swap). (As well as just increase swap.)"
+1608029369,2009-04-24 22:18:24,@houlieoin You installed those packages after you jailbroke. I highly recommend them due to bugs in Apple's copies that cause nasty crashes.
+1607562333,2009-04-24 21:21:01,@_westbaer_ The only library required to be replaced by the shipping Cydia is libgcc_s and the iPhoneApps.ru Icy jailbreak also replaces it.
+1607522056,2009-04-24 21:16:03,"@houlieoin I've actually bought and debugged every application that has ""broken"", and for the last eight months it's always the app's fault."
+1607494488,2009-04-24 21:12:42,@houlieoin Any developer who has that attitude needs to do a once-over of their code to check for memory corruption or unspecified behavior.
+1607324129,2009-04-24 20:52:30,"@brianez21 I think I'm going to fix lxml upstream; but, in the meantime, I've ""fixed"" usages of mod_transform to not cause Python callbacks."
+1607317949,2009-04-24 20:51:49,"@stroughtonsmith Your ""BSD layer"" (?) is not replaced when you jailbreak. I don't see what those issues have to do with jailbreaking itself."
+1607247344,2009-04-24 20:43:31,Python-lxml then breaks other code (maybe mod_transform) that is using xmlParserInputBufferCreateFilenameDefault() to call back into Python.
+1607212282,2009-04-24 20:39:21,Python-lxml uses libxml2's xmlSetExternalEntityLoader() to catch every XML parse operation and fails to unlock around xmlNewInputFromFile().
+1607186364,2009-04-24 20:36:18,"So, while db pooling /did/ generate GBs of errors, and PgBouncer /did/ fix that, it was not my problem: it was a deadlock on the Python GIL."
+1607167409,2009-04-24 20:34:05,@sergiomlopes My current understanding of WinterBoard on 3.x is that the kernel patches are not all finished in the iPhoneApps.ru jailbreak.
+1607151783,2009-04-24 20:32:18,"@stroughtonsmith Huh. What do you want your iPhone to do that you can somehow do when not jailbroken, but /can't/ when you /are/ jailbroken?"
+1602229987,2009-04-24 08:47:29,"Server was down due to database pooling problems. :( I've now switched from pgpool-II to PgBouncer, which seems much intelligently designed."
+1569351087,2009-04-20 21:57:30,Apple seems to have left some ENABLE(IPHONE_PPT) debugging garbage in WebCore (at least on 2.2) that I'm pretty certain is unstable. Frowny.
+1569345342,2009-04-20 21:56:45,@pavelegorkin Interesting... I don't sell a product called QuickBirthday and I don't sell anything with my saurik@saurik.com PayPal account.
+1528522393,2009-04-15 21:28:59,@Goodtobeking22 I make icons (note: I am /not/ a graphics designer at all) using a template I made a while back. http://tinyurl.com/iappcon.
+1528476072,2009-04-15 21:22:24,"@acesites I got held up on legal matters signing up more Store packages. My lawyer told me today that the agreement is ""substantially"" done."
+1528468603,2009-04-15 21:21:24,@Haehl /etc/apt should definitely exist: Cydia is just a front-end for APT (links to libapt-pkg) and uses its standard source catalog files.
+1516624221,2009-04-14 13:38:01,"@lpage25 Getting Cycorder videos off your device is covered in the Cycorder FAQ: Cydia's ""details"" pages are like websites for the packages."
+1516615527,2009-04-14 13:36:33,"@ripdev Ok, touche. I failed at something very simple (extracting packages and checking md5sums): that libgcc /is/ in the .deb's. *Phew*. ;P"
+1512832479,2009-04-13 23:57:51,@ripdev I'd actually really appreciate it if you showed me where you found the copy it is identical to so I can figure out what happened. :(
+1512818033,2009-04-13 23:55:27,@ripdev Wow... I have no clue where that libgcc came from. :( It's not even the file that's in the package that dpkg claims to be installed.
+1512725336,2009-04-13 23:40:19,@ripdev Why did you only just now report this? Have you seriously been sitting on this bug for forever? Now that I know I'll just go fix it.
+1493685717,2009-04-10 22:59:26,I had to spend way too much time today (and last night) tracking down a bug in bash 4.x / readline 6. http://tinyurl.com/c37jgw for details.
+1493679939,2009-04-10 22:58:15,"@piratxmac However, Cydia will get faster, but Icy will never be compatible with APT... APT is what attracted many of the better developers."
+1493655518,2009-04-10 22:53:19,"@ripdev I also wonder why you believe my libgcc came from 1.x. I compiled it myself, with my gcc, and did so for floating point performance."
+1493641198,2009-04-10 22:50:27,@ripdev A) That libgcc_s is not corrupted. B) The Icy 3.x package also replaces libgcc. C) The Cydia 3.x support doesn't replace /anything/.
+1482873653,2009-04-09 11:29:33,"In case people never noticed it, Cydia has a very useful Section filtering feature: click Sections/Edit, and turn off things like themes. ;P"
+1482869155,2009-04-09 11:28:15,@Thyraz Is that a new problem? I was rather confident that the WebViews for LockBackground.html didn't stay in memory when it's unlocked. :(
+1482857868,2009-04-09 11:25:03,"Near as I can tell, libreadline 6 is fully ABI compatible with readline 5; it's almost as if they bumped the major version number for GPLv3."
+1482843460,2009-04-09 11:20:44,"RiPDev is seriously advocating that users click ads, despite asking that being expressly against the terms of service from our ad providers."
+1482836945,2009-04-09 11:18:46,"@jaredluvsnicole Yes, I am getting closer to finishing the Cydia bundle for 3.x. There is going to be a massive package upgrade-a-thon soon."
+1482828424,2009-04-09 11:16:10,"@alsutton Cyrket just doesn't auto-relogin, so it needs manual poking sometimes. I'm currently sick (cold) and fighting wars on five fronts."
+1482811392,2009-04-09 11:10:56,"I hate wasting time competing against something that's only fast because it's incompatible, inaccurate, and needs a restart to see new data."
+1476133035,2009-04-08 12:21:08,"@steven9088 You /do/ realize that Veency is open source, right? Also, it is not encrypted. You don't need to ""crack"" it to make that change."
+1464905564,2009-04-06 19:52:36,"For the record, the most important thing about last night's OpenSSH upgrade (to 5.2p1) is that it now works correctly on both 2.x /and/ 3.x."
+1464882464,2009-04-06 19:48:30,@SamBrears I actually think it's difficult to be a developer /without/ a jailbroken device: you have such greater ability to debug it hurts.
+1464867047,2009-04-06 19:45:50,@howang That's interesting... I didn't know that DRM wasn't allowed in the SDK agreement (or do you mean specifically their exec-like DRM?).
+1464858837,2009-04-06 19:44:24,"@nemchik I am always trying to optimize Cydia; but, I optimize /first/ for correctness, then simplicity, then features, and /then/ speed. :("
+1454408028,2009-04-05 00:33:53,"@DjDATZ Interesting; those are transparent, and you probably themed your pinstripe to black (Cydia's websites theme)? If so, I can fix that."
+1453709172,2009-04-04 21:58:48,"@drtaru Actually, yes: I have been making http://cydia.saurik.com/ work with Firefox/Opera/Safari. Soon you will be able to browse packages."
+1453506733,2009-04-04 21:14:45,"If anyone is still having problems with Skype, please read the article linked from the main page of Cydia on the true cause of these issues."
+1453178872,2009-04-04 20:03:32,"In case anyone is curious, Skype is loading a PrivateFramework. Specifically, Message.framework. Maybe that's what they are hiding with DRM?"
+1447513217,2009-04-03 20:18:15,"@Haehl I had dumped all my PayPal data into an SQL server, and was tapping queries in over SSH to sort out my taxes. Worked out rather well."
+1447504526,2009-04-03 20:16:46,On 3.x: chill out. Have (just) an ounce of patience and you will be seeing a full Cydia stack. Obviously: unlocked users shouldn't upgrade.
+1447469854,2009-04-03 20:10:40,To anyone asking about IntelliScreen or Icy: /please read my Twitter history/. Repeating content continually on Twitter is really wasteful.
+1436913566,2009-04-02 06:35:41,"I'm seriously sitting at Firefly (favorite restaurant in Vegas), furiously tapping at MobileTerminal, working on sorting out my 2008 taxes."
+1435318081,2009-04-02 00:51:58,@brandonlang As that last tweet may be confusing: I definitely tested it long enough to verify it doesn't have the crash after a minute bug.
+1435311185,2009-04-02 00:50:35,"@brandonlang Correct: you don't need IntelliScreen. I personally tested that configuration (although not for long, as I don't hate AT&T ;P)."
+1434488736,2009-04-01 22:13:20,"@brandonlang Correct. The reason it helps is only that it turns off many extensions (you should just remove them). It crashes later, though."
+1434448031,2009-04-01 22:06:28,@brandonlang The information you found regarding IntelliScreen is somewhat inaccurate: we know more now. (I hate forums because of that :(.)
+1434121063,2009-04-01 21:13:08,"@perplexes Skype came out for the iPhone, and it is absolutely amazing. (Although, it does a lot of things Apple doesn't normally allow ;P.)"
+1434048877,2009-04-01 21:01:23,IntelliScreen can probably be used with Skype if you deactivate its Performance Boost feature (which also tends to break many other things).
+1434036085,2009-04-01 20:59:28,@theatman Are you using a WinterBoard keyboard theme? I have gotten reports that they cause crashes with Skype when clicking text fields. :(
+1433896131,2009-04-01 20:37:04,"@josefontao These still crash Skype after a minute: mAdvLock, mCoolPhone, MobileLog, and IntelliScreen. (They don't use MobileSubstrate.) :("
+1430520705,2009-04-01 10:16:15,"@TwittiFie I am actually just attending CTIA: no talks this conference ;P. People kept asking if I would be there, and I finally said ""yes""."
+1430501947,2009-04-01 10:09:32,"If you are still having ""after about a minute"" crashes with Skype it is likely caused by a non-MobileSubstrate extension (such as mAdvLock)."
+1430130474,2009-04-01 07:56:38,"Skype uses _mh_execute_header to replace itself with a binary it decrypts into memory, which restarts dyld, /re/loading all inserted dylibs."
+1430104525,2009-04-01 07:47:48,"MobileSubstrate 0.9.2805-1 fully supports Skype's DRM. You should be able to use whatever extensions you want with it, such as Backgrounder."
+1429388227,2009-04-01 04:27:16,"@MrBrass More Store packages are coming very soon, as well as some API documentation for integrating repositories and existing DRMs with it."
+1429378896,2009-04-01 04:25:15,@TheAfricanNerd I'm actually not certain what the Twitter direct messaging restrictions are. You might only be able to message followers?...
+1429366347,2009-04-01 04:22:31,@Framy I doubt the MobileSubstrate update would have affected iBluetooth. Do they even use it? Has anyone else noticed this bluetooth issue?
+1429353067,2009-04-01 04:19:41,I'd forgotten how long the taxi lines are at this airport. :( At least I've had time to figure out how I'm going to correctly hook Skype. ;P
+1428008995,2009-04-01 00:14:05,"I don't know if anyone else will be there, but I'm leaving tonight for CTIA Wireless. If you are, send me a direct message to maybe meet up."
+1427979898,2009-04-01 00:08:50,@nicholasbgr You should upgrade MobileSubstrate even if you don't use Skype. A) Supporting old stuff sucks :(. B) It's a /touch/ leaner now.
+1414292278,2009-03-29 22:13:05,"@jima6636 Sorry. :( I had searched my Inbox and replied to any e-mails that had asked for notification on PayPal, but must have missed some."
+1413862487,2009-03-29 20:40:14,"@Zirro That said, Cydia already doesn't re-refresh within 10 minutes and I am going to be adding a feature to put it off longer for Edge/3G."
+1413857839,2009-03-29 20:39:15,"@Zirro Also, most repositories don't have old packages online (mine does) so users with old indices get confusing hosting-related errors. :("
+1413847427,2009-03-29 20:37:01,@Zirro One of the major complaints from repositories about Installer 3.x was that users kept trying to install software that was /days old/.
+1413839196,2009-03-29 20:35:15,"@ripdev Actually, yes: I will more than happily remove the Essential: field from Cydia's next release (and decided as much this morning ;P)."
+1413793270,2009-03-29 20:25:50,"@Area_809 Instead of using homepage:/website:, use depiction:. Check out WinterBoard as an example. That inlines the content as an &lt;iframe&gt;."
+1413784016,2009-03-29 20:23:58,"Icy doesn't support APT's ""diff indices"", so it has to redownload entire changed files instead of just the new entries. (Ste supports this.)"
+1413770492,2009-03-29 20:21:05,Example: I also rewrote APT's network backend (to support Apple's proxy configuration panels) and /of course/ I only download changed files.
+1413762007,2009-03-29 20:19:17,@Face_Head The short story on Icy is: they are disingenuous about performance and their APT rewrite left out a number of important features.
+1413746966,2009-03-29 20:16:02,"@MijMezelfIk I am constantly working on improving Cydia, but not anything drastically, ""2.0 worthy"", different (and neither is anyone else)."
+1413735371,2009-03-29 20:13:31,"@backd00r_benny You can remove Icy: just ignore Cydia's dire warning. That warning is for packages marked ""Essential"": RiPDev marked Icy. :("
+1413728811,2009-03-29 20:12:08,@WebSiteIsDown The structure of the description pages (such as inline vs. not screenshots) is not up to me: it is up to the repositories. :(
+1409775394,2009-03-29 00:40:16,@perplexes (and everyone) Thanks! I figured out the problem: when my server rebooted yesterday it came back with a bad route to 74.*. Fixed!
+1409697812,2009-03-29 00:23:35,"@absolutchrys Cydia's account system works somewhat like iTunes: click Purchase, log in, link the device, and it will unlock your purchases."
+1409603085,2009-03-29 00:02:25,Can people give me the complete output of failed traceroutes to either apache.saurik.com or nginx.saurik.com? This issue is confusing me. :(
+1409591120,2009-03-28 23:59:51,"@ispazio No, that's not me. I hear rumors that RiPDev finally gave up on AppTapp, though, and is trying to support APT packages. Maybe them?"
+1398027102,2009-03-27 00:46:49,"@neige420 Filtering packages by source is a slow operation. :( Even if the interface looks like it has locked up, it will eventually finish."
+1389344762,2009-03-25 18:00:47,"@atdesantis11 There's an extension called CyDelete that let's you (x) packages from SpringBoard. I know the authors, but have not tested it."
+1389331997,2009-03-25 17:58:38,"@appulo Cydia Store purchases are tracked on the server, tied to your login, and linked to your devices: you won't have to re-purchase them."
+1389317821,2009-03-25 17:56:01,@MC_SE7EN PayPal is not an authentication mechanism: they only provide a payment backend. You still log in to Cydia with Facebook or Google.
+1384093369,2009-03-24 21:20:31,"Cydia Store is, in fact, now accepting""ing"" PayPal. ;P (Thanks for the poke about the mistake!) Next up: supporting the existing $ packages."
+1359129569,2009-03-20 07:17:56,@fj81 There are currently very few apps in the Cydia store because it is still being developed: please read the bottom of the Products page.
+1357793393,2009-03-20 01:21:10,"@TekkDave The new (M) in Cydia/APT: e-mails means ""Maintainer"". (A) means ""Author"". The idea is to help you understand why the user sent it."
+1356827223,2009-03-19 21:35:47,"@ripdev I figured: I saw that ""InstallerApp"" supports Cydia repositories. (Also, I should have said Depends:, I thought it was in a script.)"
+1356788735,2009-03-19 21:27:57,"@ripdev Thanks, I hadn't noticed that! The next version of WinterBoard will Pre-Depends: shell-cmds. I'll check other packages for killalls."
+1347303938,2009-03-18 08:21:56,@ispazio I'd expect tons of compatibility problems with Rock Your Phone... almost all support issues I now deal with are due to IntelliBorn.
+1346332349,2009-03-18 03:04:21,"@ispazio Oh, and one more thing; I added an initial version of installation queues: click ""cancel"". It's not amazing due to some APT issues."
+1346197325,2009-03-18 02:34:46,"@ispazio I also included some of my standard ""bug fixes and enhancements"" for the browser. Specifically, mailto:s in _popup's look smoother."
+1346058601,2009-03-18 02:05:04,@ispazio The reason for 1.0.2797-45 was so I could use an experimental Support tag to redirect support requests to FAQs or different people.
+1346050374,2009-03-18 02:03:16,"@jcalado That so much of Cydia's content is HTML is actually my absolute favorite part: it makes it so easy to design, update, and maintain."
+1343183541,2009-03-17 17:02:40,"@daDoggy What is the name of that theme? Is it still broken without FCSB? The ImageCache changes could have caused that, but shouldn't have."
+1338656317,2009-03-16 21:34:59,@haysoner98 The WinterBoard wallpaper bug was incredibly stupid and is fixed in version 0.9.2795-1. :( In other news: per-page wallpaper. ;P
+1336300426,2009-03-16 13:53:10,"@Chrismorris528 WinterBoard uses extra memory per icon (working on this), but should not ""slow down"" anything. Can you provide more details?"
+1336291963,2009-03-16 13:51:14,"@kmccartan Cycorder isn't in the App Store as, to record video, you have to use APIs Apple doesn't allow... nothing ""awesome"" is acceptable."
+1319883640,2009-03-13 03:04:26,@MikeMo94 Cydia has many different repositories: I only host a few things (stuff I wrote or ported). You need to talk to the Customize host.
+1319867287,2009-03-13 03:00:39,"@chino408 The Cydia upgrade that ""added"" the Store was a minor fix to the web browser: no major changes. It /is not/ related to your issues."
+1315250356,2009-03-12 09:22:07,"@chino408 I don't even know what the ""T-Zones hack"" is: I didn't write it, and I never hosted it. Complain to the developers or packager. :("
+1307712607,2009-03-10 22:28:33,@sebastienpage CydiaStore.com is a rip-off site. I just got off the phone with my lawyer and am working on figuring out who is the owner. :(
+1307706167,2009-03-10 22:27:03,I /finally/ got around to posting the backlog of third party repository submissions I accumulated while working on the Cydia Store release.
+1298775821,2009-03-09 02:59:38,"@PolishDemon The source code for Five Icon Dock (and WinterBoard, Veency, etc.) can be found in my svn repository. http://tinyurl.com/ckul5q"
+1294661806,2009-03-08 00:34:37,"@jeffkloy Cyntact shows you the profile pictures on your phone, not Facebook. You can find tools in the App Store for syncing with Facebook."
+1294215068,2009-03-07 22:03:54,@rosenkrieger Please send me an e-mail with details of your issue. Twitter is not usable for managing one-on-one technical support problems.
+1294208059,2009-03-07 22:01:44,@cmelbye Again: I have a schedule of packages for the Store. I will not be ready for random third party packages for a few weeks. Seriously.
+1294081371,2009-03-07 21:20:58,"@acesites If you've had a failed payment (such as, a credit card decline) you will need to be patient: I haven't coded support for that yet."
+1293919109,2009-03-07 20:30:06,@polaymerich Cyntact's purchase is tied to your Cydia account on the server. Even if you get a replacement device you will not lose Cyntact.
+1293811391,2009-03-07 19:57:18,"@hotcereal Yes, I am likely to graduate to an internal CC processing model, actually in the near future (I have a friend who just did that)."
+1293790175,2009-03-07 19:51:00,@geowarrior I am going to work on PayPal support for next week. (I did Amazon first as PayPal has a worse experience and is more expensive.)
+1293767310,2009-03-07 19:44:23,"@fusenuk The keyboard on the Cydia Search tab disappears when I click on a package. :( (Although, backspace sometimes fails, and it clicks.)"
+1293756976,2009-03-07 19:41:23,@Gitykins It won't actually let you: that's just a UI glitch I didn't quite complete. The server would actually 403 the package download. ;P
+1293754475,2009-03-07 19:40:40,"@PwnZone I have a schedule set for the first few weeks, in order of difficulty, as I add features. After that, users will be able to submit."
+1293727186,2009-03-07 19:33:00,"@Jglaus The Cydia Store is a feature of the new Cydia. If you don't have Cydia yet, you will need to use QuickPwn. http://tinyurl.com/7wkmt2"
+1293701198,2009-03-07 19:25:54,@Steaps Comments and ratings will be out soon: I just want to think through scalability one more time (I don't want it to kill payments ;P).
+1293621783,2009-03-07 19:03:47,@brinkenfeldt Whatever time it is right now... /that's/ the time it's going to be released. ;P (David and I just finished redoing the text.)
+1293245599,2009-03-07 17:04:20,@DoGudSound This release is actually going to support both. When I release comments/ratings the non-Facebook experience will be non-awesome.
+1293209195,2009-03-07 16:52:51,@blackforce I just rushed the completion of Google Login support (I was just going with Facebook) as too many people hate Facebook. :( Soon!
+1292825007,2009-03-07 14:44:08,"@stewling This is an upgrade to Cydia, both client and website, to support payment processing. This actually /helps/ the case against Apple."
+1292790739,2009-03-07 14:30:35,@fusenuk The first package I am selling is DRM-free. I intend to work with the existing commercial applications to handle their current DRM.
+1292760674,2009-03-07 14:18:23,I am having a /wonderfully/ humorous argument with two of my friends that I'm trying to get to test the production pseudo-Cydia environment.
+1292606542,2009-03-07 13:06:47,"@blued888 No, I suck :(. I am still working on it, and it's even after 5AM. I am trying to move everything to production, and ran into pain."
+1292448058,2009-03-07 11:38:18,"@hotcereal If this isn't released in another hour and a half (5AM PST) I'm going to be super sad. Really, I want even much sooner than that."
+1292429136,2009-03-07 11:27:16,@Iphonegig While I doubt most themes will be charged for I know a few large design houses wanted to do really professional themes for money.
+1292142846,2009-03-07 08:28:45,"@micaheljcaboose Yeah, when I say ""late"" I really mean it: while it /is/ technically Saturday here I tend to say I live on Japanese time. ;P"
+1292071651,2009-03-07 07:44:42,"@TekkDave The Cydia Store will support PayPal, but not until next week: initially I'm using Amazon Payments. (Many people want/need PayPal.)"
+1290889896,2009-03-07 00:18:23,@Steaps I don't think I made any negative comments on Canada. :( I really enjoyed being there (I miss snow) and people even liked the shirt.
+1290361291,2009-03-06 21:57:05,"@sethofmonrovia An unofficial store may bother Apple, but it also proves the commercial need (for example, to the Copyright Office re DMCA)."
+1290110243,2009-03-06 21:01:49,"@Johnathan123 Tonight (late) a new Cydia will come out with one package ""for sale"" (more over the next week): more details will be in Cydia."
+1285288185,2009-03-05 21:20:20,@maXimus_ipm I will be making another update to More Sources this weekend. I've been stretched to capacity trying to hit this Friday launch.
+1284803065,2009-03-05 19:33:54,@gilberger Hebit also noticed that WB makes bidi work. My guess: it replaces drawInRect:withFont:* with drawAtPoint:withStyle: as it themes.
+1282643731,2009-03-05 09:08:48,"@DoGudSound The Cydia Store is about providing a simpler billing channel to buy the already commercial applications in Cydia, like Snapture."
+1282638000,2009-03-05 09:05:54,@kluivers That anyone really believes that Cydia = pirating is ludicrous: Cydia is for things Apple would never allow in their store at all.
+1281203352,2009-03-05 00:53:23,"Just nailed the official announcement of the Cydia Store at 360|iDev, complete with demo of social packaging: comments via Facebook Connect!"
+1278052772,2009-03-04 10:50:53,"@yellowxi MobileSubstrate extensions inject code into processes like SpringBoard, effectively changing their code (such as to screen calls)."
+1275989330,2009-03-03 22:48:24,"@damienstolarz I'm at 360|iDev by 360Conferences, in San Jose at the eBay building. I am speaking tomorrow on the business aspects of Cydia."
+1275967972,2009-03-03 22:43:13,"@Haehl I don't know, why doesn't apt-get upgrade work? ;P I use apt-get upgrade often, but usually use dist-upgrade (which is more awesome)."
+1275529883,2009-03-03 21:01:35,"Watching @chews get setup for his talk on ""Unofficial iPhone Development"". (I'm here to ""heckle"", and am hoping a lot of people show up. ;P)"
+1272511256,2009-03-03 04:49:49,"@genechuang @chews Yeah, I had a blast! Also, I'm sorry I was AWOL when you left so I failed to say ""goodbye"", but I'll see you tomorrow. ;P"
+1272038407,2009-03-03 02:34:40,"@iPhone_Man Yes: California. Truth be told, I was in a hurry and grabbed random shirts. I did wear this one to Canada last month, though. ;P"
+1269595412,2009-03-02 15:35:04,"@jakewalk The $200 Android application is even cheaper now: on sale for $2 due to ""the state of the U.S. Economy"". http://tinyurl.com/dafbe3"
+1269586618,2009-03-02 15:32:51,"@hdm42 That is a very good point: I definitely should have modified Default.png to account for ""Loading Data""... I'll use this new image! ;P"
+1268713927,2009-03-02 10:10:45,"@stroughtonsmith Ok, don't /literally/ poke me. ;P Send me a tweet or find a giant bearded man lumbering around in an invade Canada T-Shirt."
+1268595341,2009-03-02 09:06:41,"I'm at 360|iDev (just checked into the hotel). I'm totally down to talking with random people tomorrow, if anyone wants to bother poking me."
+1268563706,2009-03-02 08:49:08,@styol Steffwiz and Zanekills are already not listed under More Sources: they are under Repositories to cause the PwnCenter upgrade to work.
+1259889652,2009-02-27 21:50:10,@JakeWharton Thank you very much for the bug report! I have fixed this crash bug (and a number of related issues) in the next Cydia release.
+1255899686,2009-02-26 23:39:02,@DoGudSound Why are you spending so much time in Safe Mode that you are interested in theming it? Why not remove the actual broken packages?
+1255725059,2009-02-26 22:51:05,"@MistaFuture Sad iPhone occurs when SpringBoard, the desktop manager, crashes. This occurs due to unstable extensions you are using failing."
+1255718481,2009-02-26 22:49:20,@01bitbybit01 Thanks! I did not know that the G1's Market client had that feature (to filter by Paid/Free applications). That makes it easy.
+1236951826,2009-02-22 11:42:37,There's a $200 application in the Android Market. I thought it was hilarious enough to submit a link to reddit ;P. http://tinyurl.com/abbojh
+1236948729,2009-02-22 11:40:21,@wikene You can manually reset the Cydia Changes list by editing /var/lib/cydia/metadata.plist. Is it causing you a problem being that long?
+1236908908,2009-02-22 11:10:20,"If anyone is curious, I believe there are now 1,500 packages in the Android Market (Google tops out individual searches at 800, even on G1)."
+1236810516,2009-02-22 09:52:10,"Cyrket should now display all applications, even ones that aren't visible on developer devices (ones that have ""copy protection"" turned on)."
+1236583268,2009-02-22 07:02:57,@P0150N0U5F15H I don't feel like Safe Mode should have special cases for all the ways 3rd party extensions lose data when they aren't there.
+1233920638,2009-02-21 11:30:35,"@kashpande A) Android Market downloads are done over a separate ""secure"" protocol. B) I believe supporting APK downloads would anger Google."
+1233905298,2009-02-21 11:18:43,"As of a few days ago, the Android Market supports paid applications; as of a few minutes ago, you can see them using http://www.cyrket.com/."
+1232099274,2009-02-20 21:19:57,@spoonforknife To be explicit: use cydia://package/cycorder instead of apptapp://package/cycorder (for compatibility with Installer 3 URLs).
+1229959615,2009-02-20 09:05:13,@kashpande Interesting... I think I found it: a memory burn in Winter/SpringBoard linear in the number of cached SBIcons. I'm working on it.
+1229869501,2009-02-20 08:11:16,"@spoonforknife To open Cydia with openURL: (or from Safari) you use cydia://, not apptapp:// (in-Cydia URL compatibility for Installer 3.x)."
+1226904398,2009-02-19 15:14:51,@redrip Apple's store is closed: only rather limited programs are allowed to be in there. Trust me: I don't work on Cydia without due cause.
+1226893381,2009-02-19 15:11:38,@kashpande @krazykizza WinterBoard uses almost no memory past the theme itself. It also /can't/ use battery as it doesn't stress the CPU. :(
+1226856570,2009-02-19 15:01:07,"@NiceGuyUK You can turn off any sections you don't like (such as ""themes, ringtones, and wallpapers"") with Sections/Edit: slide them to off."
+1226848537,2009-02-19 14:58:57,@Hadesdareal Cydia does not handle authenticated proxies: this is on my (long) todo list. It should work with others (with the WiFi config).
+1226352355,2009-02-19 11:55:29,"Cyrket now shows QR Codes for packages, an idea from Uwe Maurer: use the Android Barcode Scanner app (or click on them) to jump into Market!"
+1207733427,2009-02-13 20:42:42,"@drum109 Please send requests to get added to More Package Sources to me via e-mail, with any icon you want. I get to them ever week or two."
+1190872924,2009-02-09 04:20:20,"@liphoto Also, the only real crash bug I know of is due to JavaScriptCore running in its own thread on the iPhone. (Apple's docs are wrong.)"
+1190865073,2009-02-09 04:17:08,@liphoto Cydia is unlikely to do background installs as it's hard to maintain safety/correctness w/ system updates (Installer doesn't care).
+1178913593,2009-02-05 06:18:40,"@surrenix No, I live in Santa Barbara, CA. I am only in Waterloo for a few days to give a talk at ""FOSS Learning Centre"". http://fosslc.org/"
+1178680559,2009-02-05 04:18:54,"Yay! Now that that's over, I'm heading over to University Plaza to get some food. If you live in Waterloo give me a call ;P. # on saurik.com"
+1178303649,2009-02-05 01:35:46,"@jrdixey Awesome! I do recommend it: the introduction I did earlier was quite disorganized, but the coding workshop I just ran was right on."
+1177925979,2009-02-04 23:04:11,"@jrdixey I believe it will be available later and will even be licensed under a Creative Commons license. I don't know where or how, though."
+1177920802,2009-02-04 23:02:19,@Cashmere82 Are there really that many new things each week that Changes is no longer usable for that purpose? It should track new packages.
+1177529458,2009-02-04 20:50:20,"In Canada, watching FOSSLC get built. Am working with the hosts to let me connect to my iPhone. Watch: http://www.fosslc.org/drupal/node/172"
+1175460652,2009-02-04 05:42:29,"@ahhyeah Yes, ""apt-get update"" is the exact command: it tends to fix a lot of things. Also, ""apt-get dist-upgrade"" will do an ""Upgrade All""."
+1175431207,2009-02-04 05:26:11,@ahhyeah The only bad crash issue I know of is due to Touch-Mania's repository accidentally killing things. An apt-get update should fix it.
+1171461134,2009-02-03 00:15:57,"@b1gdaddy512 I use Monochrome and Cydia themes fine... if you are having issues with specific graphics, remember: Cydia is mostly a website."
+1171455117,2009-02-03 00:12:57,"Yes, my server was offline (billing SNAFU: card declined by bank's overactive fraud department, 1&1 does not auto-retry) for a few hours ;P."
+1165199632,2009-01-31 20:03:31,"@Ustice That feature (hide themes) has been in Cydia for months. Click Sections, Edit, and then turn off the sections you don't want to see."
+1157514052,2009-01-29 03:59:50,@candelwish Manual Upgrade: apt-get install wget; deb=cydia_1.0.2712-43_iphoneos-arm.deb; wget http://apt.saurik.com/debs/$deb; dpkg -i $deb
+1156927010,2009-01-28 23:49:16,"@Gregtotheizzo Queues are on their way: a few challenges left to work out. It will not be quite like Installer's, which is somewhat limited."
+1156842933,2009-01-28 23:16:24,"@Gregtotheizzo Yes. The ""(re)loading data"" steps are APT rebuilding its package database. I am working on methods of improving this section."
+1156833576,2009-01-28 23:12:47,@prichmond12 Cydia caches unreachable hosts during a refresh to avoid incurring multiple timeouts... it should really also cache the reason.
+1151633191,2009-01-27 09:24:50,Cyrket now provides RSS feeds: you can convert any temporally sorted search using the feed icon in the upper-left. http://www.cyrket.com/rss
+1151044113,2009-01-27 03:11:08,"WebCore stores a RefPtr&lt;&gt; to its ResourceLoad delegate. On the iPhone (no GC), this causes circular references you wouldn't normally expect."
+1150370922,2009-01-26 22:21:37,"@Haehl Yes. The update APT I released last week was in preparation for this build of Cydia, and uses a ""maximum parallel downloads"" setting."
+1149019383,2009-01-26 13:43:24,"The new Cydia 1.0.2712-43: A) starts much faster, B) well handles arbitrarily many repositories, and C) provides better progress indication."
+1138520914,2009-01-22 07:14:51,"@coreyblaz I am being compensated for the transportation (to Canada), but otherwise am doing it only because I like Abdullah (FOSS founder)."
+1134679258,2009-01-20 22:24:43,I am going to be traveling for over 24h to the middle of nowhere (Waterloo) to talk for less than an hour about iPhoneOS. http://fosslc.org/
+1129961271,2009-01-19 07:44:17,"@dgcaste When I first released Cydia it was within the context of ""front-end for Telesphoreo's port of APT"", which is listed... I'll add it."
+1128992854,2009-01-18 22:06:53,"@SnoopyBleu This problem happens when you use WinterBoard at the same time as Kate, RiPDev Preferences, or Mobile Enhancer. You must choose."
+1128110159,2009-01-18 13:14:15,@kiranmudiam I am rather confident that allowing users to download application packages via Cyrket would make Google and many devs angry. :(
+1128109328,2009-01-18 13:13:27,"@Nahledge yes, but I am not entirely certain exactly where. you can see some of this work in the thumbnail icons of popular themes in Cydia."
+1128107635,2009-01-18 13:11:51,@ozgurcemsen URLs (by asset #) are for specific versions: new versions have new URLs. I'll soon have a bookmarkable solution (by name URLs).
+1060386744,2008-12-16 10:48:14,anyone have any suggestions for http://www.cyrket.com/?
+822816164,2008-05-29 21:29:14,"yay for giant signs! I'm totally going to do this at future conferences. (second floor now, btw) http://snipurl.com/2bg2t"
+822678816,2008-05-29 17:57:35,"@PolarBearFarm yep ;) hey; just bought a giant 2'x3.5' sign that says ""iPhone"". my phone number is on my website."
+822259416,2008-05-29 05:04:42,I'm apparently getting desperate for iPhone developers ;). See photo: someone just came by and took a picture. http://snipurl.com/2b7ax
+822238641,2008-05-29 04:21:18,"@ebrumley wow (on beanbags). it was my friend that was recording the concert on his laptop btw, was asked not to record it ""that way"""
+822234116,2008-05-29 04:11:54,wishing I could find other iPhone hackers at Google I/O http://snipurl.com/2b74k
